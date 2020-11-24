@@ -1,4 +1,5 @@
 import pandas as pd
+import json
 
 state_list = ['Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Colorado', 'Connecticut', 'Delaware', \
             'Diamond Princess', 'District of Columbia', 'Florida', 'Georgia', 'Grand Princess', 'Guam', 'Hawaii',
@@ -43,6 +44,28 @@ def readData():
         df[["Confirmed", "Deaths", "Daily_Confirmed", "Daily_Deaths"]].fillna(0)
     return df[["Province_State", "Admin2","Date","Confirmed","Deaths",
                "Daily_Confirmed", "Daily_Deaths"]]
+def jsonOutput(df_state):
+    meta = {
+        "Version": "v1",
+        "Columns": ["Date", "Confirmed", "Deaths", "Daily_Confirmed", "Daily_Deaths"]
+    }
+    data = {}
+    for state in state_list:
+        df2 = df_state[df_state["Province_State"] == state]
+        data[state] = {
+            'Date': df2['Date'].dt.strftime('%Y-%m-%d').to_list(),
+            'Confirmed': df2['Confirmed'].to_list(),
+            'Deaths': df2['Deaths'].to_list(),
+            'Daily_Confirmed': df2['Daily_Confirmed'].to_list(),
+            'Daily_Deaths': df2['Daily_Deaths'].to_list()
+        }
+    jsondata = {
+        "Meta": meta,
+        "Data": data
+    }
+    with open('data/covid_19_state_v1.json', 'w') as f:
+        f.write(json.dumps(jsondata))
+
 def loadData():
     df = readData()
     df["Admin2"] = df["Admin2"].fillna(df["Province_State"])
@@ -50,6 +73,8 @@ def loadData():
     df_state = df_state[["Province_State","Date","Confirmed","Deaths","Daily_Confirmed","Daily_Deaths"]]
     df.to_csv('data/covid_19_county.csv', index=False)
     df_state.to_csv('data/covid_19_state.csv', index=False)
+    jsonOutput(df_state)
+
 
 if __name__ == '__main__':
     loadData()
