@@ -48,8 +48,8 @@ def loadData():
     df["Admin2"] = df["Admin2"].fillna(df["Province_State"])
     df_state = df.groupby(["Province_State", "Date"]).sum().reset_index()
     df_state = df_state[["Province_State","Date","Confirmed","Deaths","Daily_Confirmed","Daily_Deaths"]]
-    df.to_csv('covid_19_county.csv', index=False)
-    df_state.to_csv('covid_19_state.csv', index=False)
+    df.to_csv('data/covid_19_county.csv', index=False)
+    df_state.to_csv('data/covid_19_state.csv', index=False)
 
 if __name__ == '__main__':
     loadData()
