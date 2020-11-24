@@ -3,7 +3,7 @@ name: Update Data
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron:  "*/5 * * * *"
 
