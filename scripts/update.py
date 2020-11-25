@@ -13,11 +13,11 @@ def readFile(base_path, file, choice, col_name):
     df_file = pd.read_csv(base_path+file)
 
     df_file = df_file.drop(
-        ["UID", "iso2", "iso3", "code3", "FIPS", "Country_Region", "Combined_Key"], axis=1)
+        ["UID", "iso2", "iso3", "code3", "Country_Region", "Combined_Key"], axis=1)
     if choice == 'Deaths':
         df_file = df_file.drop(["Population"], axis=1)
-    df_county = df_file.iloc[:, 0:4]
-    df_diff = df_file.iloc[:, 4:len(df_file.columns)].diff(axis=1)
+    df_county = df_file.iloc[:, 0:5]
+    df_diff = df_file.iloc[:, 5:len(df_file.columns)].diff(axis=1)
     df_diff = df_county.join(df_diff)
     df_file = df_file.melt(id_vars=col_name,
                            var_name="Date",
@@ -31,18 +31,18 @@ def readFile(base_path, file, choice, col_name):
     return df_file
 
 def readData():
-    col_name = ["Province_State", "Admin2", "Lat","Long_"]
+    col_name = ["FIPS","Province_State", "Admin2", "Lat","Long_"]
     base_path = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/'
     df = readFile( base_path, 'time_series_covid19_confirmed_US.csv', 'Confirmed', col_name)
     df2 = readFile(base_path, 'time_series_covid19_deaths_US.csv', 'Deaths', col_name)
-    df = df.merge(df2, on=['Date', 'Province_State', 'Admin2'])
+    df = df.merge(df2, on=['FIPS','Date', 'Province_State', 'Admin2'])
 
-    df = df.drop(['Lat_y', 'Long__y'], axis=1)
-    df = df.rename(columns={"Lat_x": "Latitude", "Long__x": "Longitude"})
+    # df = df.drop(['Lat_y', 'Long__y'], axis=1)
+    # df = df.rename(columns={"Lat_x": "Latitude", "Long__x": "Longitude"})
     df = df.drop(df[(df.Confirmed == 0) & (df.Deaths == 0)].index)
     df[["Confirmed", "Deaths", "Daily_Confirmed", "Daily_Deaths"]] = \
         df[["Confirmed", "Deaths", "Daily_Confirmed", "Daily_Deaths"]].fillna(0)
-    return df[["Province_State", "Admin2","Date","Confirmed","Deaths",
+    return df[["FIPS","Province_State", "Admin2","Date","Confirmed","Deaths",
                "Daily_Confirmed", "Daily_Deaths"]]
 def jsonOutput(df, geo):
     meta = {
@@ -61,11 +61,12 @@ def jsonOutput(df, geo):
                 'Daily_Deaths': df2['Daily_Deaths'].to_list()
             }
         else:
-            data[state] = {}
             county_list = df[df["Province_State"] == state]['Admin2'].unique()
-            for county in county_list[:1]:
+            for county in county_list:
                 df2 = df[df["Admin2"] == county]
-                data[state][county] = {
+                data[df2["FIPS"].values[0]] = {
+                    'State': state,
+                    'County': county,
                     'Date': df2['Date'].dt.strftime('%Y-%m-%d').to_list(),
                     'Confirmed': df2['Confirmed'].to_list(),
                     'Deaths': df2['Deaths'].to_list(),
