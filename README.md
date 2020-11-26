@@ -10,3 +10,7 @@ df = pd.read_csv('https://raw.githubusercontent.com/lit26/COVID19_Data/main/data
 # fetching state covid-19 data
 df = pd.read_csv('https://raw.githubusercontent.com/lit26/COVID19_Data/main/data/covid_19_state.csv')
 ```
+
+# Time series data
+
+Split data according to the dates.
