@@ -1,5 +1,6 @@
 import pandas as pd
 import json
+import os
 
 state_list = ['Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Colorado', 'Connecticut', 'Delaware', \
             'Diamond Princess', 'District of Columbia', 'Florida', 'Georgia', 'Grand Princess', 'Guam', 'Hawaii',
@@ -80,11 +81,25 @@ def jsonOutput(df, geo):
     with open('data/covid_19_'+geo+'_v1.json', 'w') as f:
         f.write(json.dumps(jsondata))
 
+def getTimeSeriesData(df, df_state):
+    base_path = 'time_series_data/'
+    for i in sorted(set(df_state['Date'].to_list())):
+        dir_path = base_path + i.strftime("%Y-%m-%d")
+        if not os.path.isdir(dir_path):
+            os.mkdir(dir_path)
+        df_state[df_state['Date'] == i][
+            ['Province_State', 'Confirmed', 'Deaths', 'Daily_Confirmed', 'Daily_Deaths']].to_csv(
+            dir_path + '/covid_19_state.csv', index=False)
+        df[df['Date'] == i][
+            ['FIPS', 'Province_State', 'Admin2', 'Confirmed', 'Deaths', 'Daily_Confirmed', 'Daily_Deaths']].to_csv(
+            dir_path + '/covid_19_county.csv', index=False)
+
 def loadData():
     df = readData()
     df["Admin2"] = df["Admin2"].fillna(df["Province_State"])
     df_state = df.groupby(["Province_State", "Date"]).sum().reset_index()
     df_state = df_state[["Province_State","Date","Confirmed","Deaths","Daily_Confirmed","Daily_Deaths"]]
+    getTimeSeriesData(df, df_state)
     df.to_csv('data/covid_19_county.csv', index=False)
     df_state.to_csv('data/covid_19_state.csv', index=False)
     jsonOutput(df_state, 'state')
