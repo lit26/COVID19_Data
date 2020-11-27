@@ -1,6 +1,7 @@
 Province_State,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 Alabama,2954,70,340.0,4.0
 Alaska,238,7,10.0,0.0
+American Samoa,0,0,0.0,0.0
 Arizona,3018,98,292.0,9.0
 Arkansas,1119,21,119.0,3.0
 California,19710,544,813.0,49.0
@@ -18,7 +19,7 @@ Idaho,1232,18,22.0,3.0
 Illinois,16422,528,1344.0,66.0
 Indiana,6351,245,408.0,42.0
 Iowa,1270,29,125.0,2.0
-Kansas,1116,34,70.0,0.0
+Kansas,1116,34,70.0,-4.0
 Kentucky,1341,73,192.0,8.0
 Louisiana,18283,702,1253.0,50.0
 Maine,560,16,23.0,2.0

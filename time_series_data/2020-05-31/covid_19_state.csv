@@ -1,6 +1,7 @@
 Province_State,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 Alabama,18200,630,511.0,12.0
 Alaska,484,10,29.0,0.0
+American Samoa,0,0,0.0,0.0
 Arizona,19936,907,678.0,3.0
 Arkansas,7253,133,240.0,0.0
 California,111951,4172,2056.0,28.0
@@ -42,7 +43,7 @@ Ohio,35513,2155,480.0,6.0
 Oklahoma,6418,334,0.0,0.0
 Oregon,4243,153,58.0,0.0
 Pennsylvania,76129,5555,432.0,18.0
-Puerto Rico,1288,136,4.0,3.0
+Puerto Rico,1288,136,-2.0,3.0
 Rhode Island,14928,825,109.0,114.0
 South Carolina,11861,494,467.0,7.0
 South Dakota,4993,62,33.0,0.0

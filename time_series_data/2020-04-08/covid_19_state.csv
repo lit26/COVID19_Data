@@ -1,6 +1,7 @@
 Province_State,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 Alabama,2614,66,306.0,2.0
 Alaska,228,7,13.0,1.0
+American Samoa,0,0,0.0,0.0
 Arizona,2726,89,151.0,16.0
 Arkansas,1000,18,54.0,0.0
 California,18897,495,1546.0,63.0
@@ -29,13 +30,13 @@ Minnesota,1154,39,85.0,5.0
 Mississippi,2003,67,88.0,7.0
 Missouri,3511,107,184.0,15.0
 Montana,332,6,13.0,0.0
-Nebraska,519,12,73.0,2.0
-Nevada,2259,72,168.0,12.0
+Nebraska,519,12,72.0,2.0
+Nevada,2259,72,135.0,0.0
 New Hampshire,747,13,32.0,4.0
 New Jersey,47437,1974,3021.0,341.0
 New Mexico,821,13,27.0,0.0
 New York,151061,9879,11186.0,949.0
-North Carolina,3700,66,247.0,15.0
+North Carolina,3700,66,247.0,13.0
 North Dakota,251,4,14.0,0.0
 Northern Mariana Islands,11,2,3.0,0.0
 Ohio,5148,193,366.0,26.0
@@ -47,7 +48,7 @@ Rhode Island,1450,32,221.0,5.0
 South Carolina,2417,51,0.0,0.0
 South Dakota,393,6,73.0,0.0
 Tennessee,4363,80,224.0,8.0
-Texas,9809,221,885.0,26.0
+Texas,9809,221,884.0,26.0
 Utah,1848,13,109.0,0.0
 Vermont,605,23,30.0,0.0
 Virgin Islands,45,1,2.0,0.0
@@ -55,4 +56,4 @@ Virginia,3645,66,310.0,0.0
 Washington,9276,426,584.0,26.0
 West Virginia,483,4,71.0,0.0
 Wisconsin,2710,140,132.0,17.0
-Wyoming,221,0,6.0,0.0
+Wyoming,221,0,5.0,0.0

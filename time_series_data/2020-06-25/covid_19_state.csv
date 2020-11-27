@@ -1,6 +1,7 @@
 Province_State,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 Alabama,33880,896,1002.0,5.0
 Alaska,982,12,44.0,0.0
+American Samoa,0,0,0.0,0.0
 Arizona,63281,1495,3091.0,28.0
 Arkansas,18062,240,687.0,0.0
 California,201112,5806,5088.0,81.0
@@ -15,7 +16,7 @@ Grand Princess,103,3,0.0,0.0
 Guam,231,5,5.0,0.0
 Hawaii,851,17,16.0,0.0
 Idaho,4865,90,463.0,1.0
-Illinois,139434,6810,895.0,40.0
+Illinois,139434,6810,894.0,40.0
 Indiana,43655,2586,515.0,8.0
 Iowa,27373,696,772.0,6.0
 Kansas,13107,262,177.0,1.0
@@ -28,8 +29,8 @@ Michigan,68989,6133,434.0,19.0
 Minnesota,34123,1441,360.0,9.0
 Mississippi,24516,1016,1092.0,5.0
 Missouri,19637,1000,514.0,2.0
-Montana,803,21,39.0,0.0
-Nebraska,18346,260,126.0,3.0
+Montana,803,21,37.0,0.0
+Nebraska,18346,260,125.0,3.0
 Nevada,14859,495,497.0,1.0
 New Hampshire,5638,357,40.0,10.0
 New Jersey,170196,14872,304.0,-72.0
@@ -53,6 +54,6 @@ Vermont,1191,56,7.0,0.0
 Virgin Islands,80,6,4.0,0.0
 Virginia,59946,1675,432.0,14.0
 Washington,30367,1300,498.0,7.0
-West Virginia,2694,92,65.0,0.0
+West Virginia,2694,92,63.0,0.0
 Wisconsin,26227,797,464.0,4.0
 Wyoming,1326,20,44.0,0.0

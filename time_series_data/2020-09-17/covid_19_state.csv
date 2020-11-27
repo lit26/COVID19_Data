@@ -1,6 +1,7 @@
 Province_State,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 Alabama,141454,2401,1031.0,9.0
 Alaska,7476,44,112.0,0.0
+American Samoa,0,0,0.0,0.0
 Arizona,211660,5409,1753.0,38.0
 Arkansas,73211,1166,992.0,9.0
 California,775037,14804,3716.0,113.0
@@ -55,4 +56,4 @@ Virginia,137460,2920,1101.0,36.0
 Washington,81198,2031,386.0,11.0
 West Virginia,13434,297,232.0,4.0
 Wisconsin,94746,1287,2034.0,6.0
-Wyoming,4652,49,86.0,3.0
+Wyoming,4652,49,86.0,-1.0

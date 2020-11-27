@@ -1,14 +1,19 @@
 Province_State,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 Alabama,28,0,13.0,0.0
 Alaska,1,0,0.0,0.0
+American Samoa,0,0,0.0,0.0
 Arizona,12,0,0.0,0.0
-Arkansas,3,0,0.0,0.0
-California,373,5,2.0,2.0
+Arkansas,3,0,-9.0,0.0
+California,373,5,1.0,2.0
 Colorado,136,2,33.0,0.0
 Connecticut,24,0,1.0,0.0
 Delaware,6,0,0.0,0.0
-Florida,100,3,36.0,1.0
+Diamond Princess,0,0,0.0,0.0
+District of Columbia,0,0,0.0,0.0
+Florida,100,3,24.0,1.0
 Georgia,99,1,26.0,0.0
+Grand Princess,0,0,0.0,0.0
+Guam,0,0,0.0,0.0
 Hawaii,6,0,2.0,0.0
 Idaho,4,0,2.0,0.0
 Illinois,66,0,2.0,0.0
@@ -16,15 +21,15 @@ Indiana,20,0,4.0,0.0
 Iowa,18,0,1.0,0.0
 Kansas,8,1,0.0,0.0
 Kentucky,18,0,2.0,0.0
-Louisiana,87,2,14.0,1.0
-Maine,2,0,1.0,0.0
-Maryland,24,0,4.0,0.0
+Louisiana,87,2,10.0,1.0
+Maine,2,0,-1.0,0.0
+Maryland,24,0,-3.0,0.0
 Massachusetts,363,0,68.0,0.0
-Michigan,45,1,10.0,0.0
+Michigan,45,1,9.0,0.0
 Minnesota,21,0,0.0,0.0
 Mississippi,6,0,0.0,0.0
 Missouri,5,0,1.0,0.0
-Montana,6,0,2.0,0.0
+Montana,6,0,1.0,0.0
 Nebraska,17,0,-1.0,0.0
 Nevada,20,0,0.0,0.0
 New Hampshire,7,0,0.0,0.0
@@ -33,18 +38,22 @@ New Mexico,13,0,0.0,0.0
 New York,633,10,76.0,5.0
 North Carolina,33,0,1.0,0.0
 North Dakota,1,0,0.0,0.0
+Northern Mariana Islands,0,0,0.0,0.0
 Ohio,30,0,4.0,0.0
 Oklahoma,4,0,0.0,0.0
 Oregon,36,1,0.0,1.0
 Pennsylvania,47,0,0.0,0.0
+Puerto Rico,0,0,0.0,0.0
 Rhode Island,20,0,0.0,0.0
 South Carolina,19,0,0.0,0.0
 South Dakota,8,1,0.0,0.0
 Tennessee,32,0,0.0,0.0
 Texas,64,0,4.0,0.0
-Utah,18,0,11.0,0.0
+Utah,18,0,8.0,0.0
 Vermont,5,0,0.0,0.0
+Virgin Islands,0,0,0.0,0.0
 Virginia,37,1,0.0,0.0
-Washington,603,40,0.0,1.0
+Washington,603,40,-39.0,1.0
+West Virginia,0,0,0.0,0.0
 Wisconsin,28,0,1.0,0.0
 Wyoming,2,0,0.0,0.0

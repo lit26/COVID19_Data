@@ -1,6 +1,7 @@
 Province_State,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 Alabama,5899,202,207.0,6.0
 Alaska,342,9,2.0,0.0
+American Samoa,0,0,0.0,0.0
 Arizona,5772,249,299.0,18.0
 Arkansas,2599,45,323.0,3.0
 California,39561,1533,2209.0,112.0
@@ -21,7 +22,7 @@ Iowa,3924,96,176.0,6.0
 Kansas,2721,113,390.0,1.0
 Kentucky,3479,191,101.0,6.0
 Louisiana,25739,1599,481.0,126.0
-Maine,937,44,32.0,5.0
+Maine,937,44,30.0,5.0
 Maryland,15737,748,962.0,50.0
 Massachusetts,53755,2360,2407.0,178.0
 Michigan,36845,3157,1441.0,170.0
@@ -53,6 +54,6 @@ Vermont,825,43,2.0,3.0
 Virgin Islands,54,3,0.0,0.0
 Virginia,10998,373,732.0,24.0
 Washington,12753,711,157.0,25.0
-West Virginia,981,31,42.0,24.0
+West Virginia,981,31,42.0,4.0
 Wisconsin,5052,282,207.0,5.0
 Wyoming,453,7,6.0,1.0

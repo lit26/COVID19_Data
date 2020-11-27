@@ -51,6 +51,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 1099.0,Alabama,Monroe,230,2,1.0,0.0
 1101.0,Alabama,Montgomery,4041,103,46.0,0.0
 1103.0,Alabama,Morgan,1123,5,25.0,0.0
+80001.0,Alabama,Out of AL,0,0,0.0,0.0
 1105.0,Alabama,Perry,175,1,7.0,0.0
 1107.0,Alabama,Pickens,232,6,5.0,0.0
 1109.0,Alabama,Pike,432,5,7.0,0.0
@@ -71,11 +72,13 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 2016.0,Alaska,Aleutians West,5,0,0.0,0.0
 2020.0,Alaska,Anchorage,582,7,33.0,1.0
 2050.0,Alaska,Bethel,13,0,1.0,0.0
+2060.0,Alaska,Bristol Bay,0,0,0.0,0.0
 2164.0,Alaska,Bristol Bay plus Lake and Peninsula,49,0,1.0,0.0
 2068.0,Alaska,Denali,1,0,0.0,0.0
 2070.0,Alaska,Dillingham,22,0,0.0,0.0
 2090.0,Alaska,Fairbanks North Star,181,2,7.0,0.0
 2100.0,Alaska,Haines,6,0,0.0,0.0
+2105.0,Alaska,Hoonah-Angoon,0,0,0.0,0.0
 2110.0,Alaska,Juneau,49,2,1.0,0.0
 2122.0,Alaska,Kenai Peninsula,181,2,1.0,0.0
 2130.0,Alaska,Ketchikan Gateway,30,0,0.0,0.0
@@ -85,15 +88,18 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 2180.0,Alaska,Nome,11,0,0.0,0.0
 2185.0,Alaska,North Slope,4,0,0.0,0.0
 2188.0,Alaska,Northwest Arctic,5,0,0.0,0.0
+80002.0,Alaska,Out of AK,0,0,0.0,0.0
 2195.0,Alaska,Petersburg,7,1,1.0,0.0
 2198.0,Alaska,Prince of Wales-Hyder,3,0,0.0,0.0
 2220.0,Alaska,Sitka,18,0,0.0,0.0
+2230.0,Alaska,Skagway,0,0,0.0,0.0
 2240.0,Alaska,Southeast Fairbanks,16,0,0.0,0.0
 90002.0,Alaska,Unassigned,0,1,0.0,0.0
 2261.0,Alaska,Valdez-Cordova,24,0,2.0,0.0
 2275.0,Alaska,Wrangell,8,0,0.0,0.0
 2282.0,Alaska,Yakutat,1,0,0.0,0.0
 2290.0,Alaska,Yukon-Koyukuk,4,0,1.0,0.0
+60.0,American Samoa,American Samoa,0,0,0.0,0.0
 4001.0,Arizona,Apache,2423,91,5.0,0.0
 4003.0,Arizona,Cochise,740,14,30.0,0.0
 4005.0,Arizona,Coconino,2107,96,20.0,0.0
@@ -104,9 +110,11 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 4013.0,Arizona,Maricopa,59829,880,1900.0,15.0
 4015.0,Arizona,Mohave,1358,88,16.0,0.0
 4017.0,Arizona,Navajo,3848,133,31.0,1.0
+80004.0,Arizona,Out of AZ,0,0,0.0,0.0
 4019.0,Arizona,Pima,9313,282,289.0,0.0
 4021.0,Arizona,Pinal,4237,75,98.0,0.0
 4023.0,Arizona,Santa Cruz,1932,24,45.0,0.0
+90004.0,Arizona,Unassigned,0,0,0.0,0.0
 4025.0,Arizona,Yavapai,881,10,20.0,0.0
 4027.0,Arizona,Yuma,7062,110,224.0,3.0
 5001.0,Arkansas,Arkansas,37,0,-1.0,0.0
@@ -161,6 +169,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 5099.0,Arkansas,Nevada,104,3,0.0,0.0
 5101.0,Arkansas,Newton,8,0,1.0,0.0
 5103.0,Arkansas,Ouachita,21,0,1.0,0.0
+80005.0,Arkansas,Out of AR,0,0,0.0,0.0
 5105.0,Arkansas,Perry,35,0,1.0,0.0
 5107.0,Arkansas,Phillips,155,4,0.0,1.0
 5109.0,Arkansas,Pike,10,0,1.0,0.0
@@ -209,11 +218,13 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6043.0,California,Mariposa,27,1,0.0,0.0
 6045.0,California,Mendocino,85,0,0.0,0.0
 6047.0,California,Merced,1272,11,0.0,0.0
+6049.0,California,Modoc,0,0,0.0,0.0
 6051.0,California,Mono,45,1,4.0,0.0
 6053.0,California,Monterey,1915,15,124.0,0.0
 6055.0,California,Napa,376,4,32.0,0.0
 6057.0,California,Nevada,129,1,6.0,0.0
 6059.0,California,Orange,16191,363,413.0,3.0
+80006.0,California,Out of CA,0,0,0.0,0.0
 6061.0,California,Placer,828,11,42.0,0.0
 6063.0,California,Plumas,11,0,0.0,0.0
 6065.0,California,Riverside,19450,479,0.0,0.0
@@ -239,6 +250,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 6105.0,California,Trinity,2,0,0.0,0.0
 6107.0,California,Tulare,4627,136,0.0,0.0
 6109.0,California,Tuolumne,43,0,0.0,0.0
+90006.0,California,Unassigned,0,0,0.0,0.0
 6111.0,California,Ventura,3240,47,0.0,0.0
 6113.0,California,Yolo,613,25,30.0,1.0
 6115.0,California,Yuba,106,1,3.0,0.0
@@ -259,6 +271,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 8027.0,Colorado,Custer,2,0,0.0,0.0
 8029.0,Colorado,Delta,84,1,1.0,0.0
 8031.0,Colorado,Denver,7319,382,40.0,0.0
+8033.0,Colorado,Dolores,0,0,0.0,0.0
 8035.0,Colorado,Douglas,1006,52,13.0,0.0
 8037.0,Colorado,Eagle,701,8,1.0,0.0
 8041.0,Colorado,El Paso,2574,120,49.0,0.0
@@ -272,6 +285,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 8055.0,Colorado,Huerfano,4,1,0.0,0.0
 8057.0,Colorado,Jackson,2,0,0.0,0.0
 8059.0,Colorado,Jefferson,2776,212,13.0,0.0
+8061.0,Colorado,Kiowa,0,0,0.0,0.0
 8063.0,Colorado,Kit Carson,33,3,0.0,0.0
 8067.0,Colorado,La Plata,121,1,4.0,0.0
 8065.0,Colorado,Lake,52,0,1.0,0.0
@@ -287,6 +301,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 8087.0,Colorado,Morgan,655,46,1.0,0.0
 8089.0,Colorado,Otero,22,1,0.0,0.0
 8091.0,Colorado,Ouray,12,1,1.0,0.0
+80008.0,Colorado,Out of CO,0,0,0.0,0.0
 8093.0,Colorado,Park,27,0,0.0,0.0
 8095.0,Colorado,Phillips,16,0,0.0,0.0
 8097.0,Colorado,Pitkin,104,2,2.0,0.0
@@ -298,6 +313,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 8109.0,Colorado,Saguache,102,2,0.0,0.0
 8111.0,Colorado,San Juan,2,0,0.0,0.0
 8113.0,Colorado,San Miguel,39,0,0.0,0.0
+8115.0,Colorado,Sedgwick,0,0,0.0,0.0
 8117.0,Colorado,Summit,278,4,1.0,0.0
 8119.0,Colorado,Teller,43,2,1.0,0.0
 90008.0,Colorado,Unassigned,17,0,0.0,0.0
@@ -310,15 +326,19 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 9007.0,Connecticut,Middlesex,1308,186,0.0,0.0
 9009.0,Connecticut,New Haven,12409,1077,0.0,0.0
 9011.0,Connecticut,New London,1277,102,0.0,0.0
+80009.0,Connecticut,Out of CT,0,0,0.0,0.0
 9013.0,Connecticut,Tolland,915,64,0.0,0.0
 90009.0,Connecticut,Unassigned,213,0,0.0,0.0
 9015.0,Connecticut,Windham,616,14,0.0,0.0
 10001.0,Delaware,Kent,1735,92,5.0,0.0
 10003.0,Delaware,New Castle,5334,245,57.0,0.0
+80010.0,Delaware,Out of DE,0,0,0.0,0.0
 10005.0,Delaware,Sussex,4854,175,7.0,0.0
 90010.0,Delaware,Unassigned,73,0,4.0,0.0
 88888.0,Diamond Princess,Diamond Princess,49,0,0.0,0.0
 11001.0,District of Columbia,District of Columbia,10447,557,12.0,2.0
+80011.0,District of Columbia,Out of DC,0,0,0.0,0.0
+90011.0,District of Columbia,Unassigned,0,0,0.0,0.0
 12001.0,Florida,Alachua,1506,12,83.0,0.0
 12003.0,Florida,Baker,98,4,14.0,0.0
 12005.0,Florida,Bay,684,5,59.0,0.0
@@ -368,6 +388,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 12093.0,Florida,Okeechobee,413,0,11.0,0.0
 12095.0,Florida,Orange,13262,59,1184.0,0.0
 12097.0,Florida,Osceola,2781,26,255.0,1.0
+80012.0,Florida,Out of FL,0,0,0.0,0.0
 12099.0,Florida,Palm Beach,16149,541,825.0,5.0
 12101.0,Florida,Pasco,2608,23,165.0,0.0
 12103.0,Florida,Pinellas,8116,184,419.0,1.0
@@ -552,9 +573,11 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 66.0,Guam,Guam,280,5,0.0,0.0
 15001.0,Hawaii,Hawaii,93,0,2.0,0.0
 15003.0,Hawaii,Honolulu,720,13,19.0,0.0
+15005.0,Hawaii,Kalawao,0,0,0.0,0.0
 15007.0,Hawaii,Kauai,40,0,2.0,0.0
 15009.0,Hawaii,Maui,128,6,1.0,0.0
 80015.0,Hawaii,Out of HI,18,0,0.0,0.0
+90015.0,Hawaii,Unassigned,0,0,0.0,0.0
 16001.0,Idaho,Ada,2631,23,124.0,0.0
 16003.0,Idaho,Adams,11,0,0.0,0.0
 16005.0,Idaho,Bannock,112,1,0.0,0.0
@@ -566,10 +589,12 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 16017.0,Idaho,Bonner,38,0,2.0,0.0
 16019.0,Idaho,Bonneville,131,1,10.0,0.0
 16021.0,Idaho,Boundary,1,0,0.0,0.0
+16023.0,Idaho,Butte,0,0,0.0,0.0
 16025.0,Idaho,Camas,1,0,0.0,0.0
 16027.0,Idaho,Canyon,1253,6,161.0,0.0
 16029.0,Idaho,Caribou,11,0,0.0,0.0
 16031.0,Idaho,Cassia,262,1,0.0,0.0
+16033.0,Idaho,Clark,0,0,0.0,0.0
 16035.0,Idaho,Clearwater,2,0,0.0,0.0
 16037.0,Idaho,Custer,4,0,0.0,0.0
 16039.0,Idaho,Elmore,64,2,0.0,0.0
@@ -583,11 +608,13 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 16055.0,Idaho,Kootenai,401,1,44.0,0.0
 16057.0,Idaho,Latah,25,0,0.0,0.0
 16059.0,Idaho,Lemhi,2,0,0.0,0.0
+16061.0,Idaho,Lewis,0,0,0.0,0.0
 16063.0,Idaho,Lincoln,36,0,0.0,0.0
 16065.0,Idaho,Madison,38,0,1.0,0.0
 16067.0,Idaho,Minidoka,202,0,1.0,0.0
 16069.0,Idaho,Nez Perce,98,19,0.0,0.0
 16071.0,Idaho,Oneida,4,0,0.0,0.0
+80016.0,Idaho,Out of ID,0,0,0.0,0.0
 16073.0,Idaho,Owyhee,50,0,6.0,0.0
 16075.0,Idaho,Payette,131,2,9.0,0.0
 16077.0,Idaho,Power,17,0,0.0,0.0
@@ -668,6 +695,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 17137.0,Illinois,Morgan,130,3,0.0,0.0
 17139.0,Illinois,Moultrie,19,0,0.0,0.0
 17141.0,Illinois,Ogle,269,4,1.0,0.0
+80017.0,Illinois,Out of IL,0,0,0.0,0.0
 17143.0,Illinois,Peoria,551,28,5.0,0.0
 17145.0,Illinois,Perry,56,1,0.0,0.0
 17147.0,Illinois,Piatt,20,0,-1.0,0.0
@@ -759,6 +787,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 18113.0,Indiana,Noble,469,28,12.0,0.0
 18115.0,Indiana,Ohio,14,0,0.0,0.0
 18117.0,Indiana,Orange,136,23,1.0,0.0
+80018.0,Indiana,Out of IN,0,0,0.0,0.0
 18119.0,Indiana,Owen,47,1,0.0,0.0
 18121.0,Indiana,Parke,22,0,0.0,0.0
 18123.0,Indiana,Perry,127,9,0.0,0.0
@@ -865,6 +894,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 19139.0,Iowa,Muscatine,629,44,5.0,0.0
 19141.0,Iowa,O'Brien,86,1,0.0,0.0
 19143.0,Iowa,Osceola,59,0,0.0,0.0
+80019.0,Iowa,Out of IA,0,0,0.0,0.0
 19145.0,Iowa,Page,20,0,0.0,0.0
 19147.0,Iowa,Palo Alto,41,0,5.0,0.0
 19149.0,Iowa,Plymouth,316,5,3.0,0.0
@@ -912,6 +942,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 20033.0,Kansas,Comanche,3,0,1.0,0.0
 20035.0,Kansas,Cowley,73,1,0.0,0.0
 20037.0,Kansas,Crawford,266,1,0.0,0.0
+20039.0,Kansas,Decatur,0,0,0.0,0.0
 20041.0,Kansas,Dickinson,8,1,0.0,0.0
 20043.0,Kansas,Doniphan,26,0,0.0,0.0
 20045.0,Kansas,Douglas,251,0,0.0,0.0
@@ -924,8 +955,10 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 20059.0,Kansas,Franklin,78,1,0.0,0.0
 20061.0,Kansas,Geary,65,1,3.0,0.0
 20063.0,Kansas,Gove,2,0,0.0,0.0
+20065.0,Kansas,Graham,0,0,0.0,0.0
 20067.0,Kansas,Grant,53,1,2.0,0.0
 20069.0,Kansas,Gray,31,0,0.0,0.0
+20071.0,Kansas,Greeley,0,0,0.0,0.0
 20073.0,Kansas,Greenwood,11,0,0.0,0.0
 20075.0,Kansas,Hamilton,30,0,0.0,0.0
 20077.0,Kansas,Harper,4,0,0.0,0.0
@@ -937,6 +970,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 20089.0,Kansas,Jewell,4,0,0.0,0.0
 20091.0,Kansas,Johnson,2111,88,118.0,0.0
 20093.0,Kansas,Kearny,48,1,0.0,0.0
+20095.0,Kansas,Kingman,0,0,0.0,0.0
 20097.0,Kansas,Kiowa,3,0,0.0,0.0
 20099.0,Kansas,Labette,65,0,0.0,0.0
 20101.0,Kansas,Lane,5,0,0.0,0.0
@@ -961,10 +995,12 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 20139.0,Kansas,Osage,15,0,0.0,0.0
 20141.0,Kansas,Osborne,2,0,0.0,0.0
 20143.0,Kansas,Ottawa,8,0,0.0,0.0
+80020.0,Kansas,Out of KS,0,0,0.0,0.0
 20145.0,Kansas,Pawnee,3,0,0.0,0.0
 20147.0,Kansas,Phillips,10,0,0.0,0.0
 20149.0,Kansas,Pottawatomie,74,0,0.0,0.0
 20151.0,Kansas,Pratt,11,0,0.0,0.0
+20153.0,Kansas,Rawlins,0,0,0.0,0.0
 20155.0,Kansas,Reno,78,0,4.0,0.0
 20157.0,Kansas,Republic,15,0,0.0,0.0
 20159.0,Kansas,Rice,4,0,0.0,0.0
@@ -988,7 +1024,9 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 20195.0,Kansas,Trego,1,0,0.0,0.0
 90020.0,Kansas,Unassigned,0,1,0.0,0.0
 20197.0,Kansas,Wabaunsee,36,0,0.0,0.0
+20199.0,Kansas,Wallace,0,0,0.0,0.0
 20201.0,Kansas,Washington,1,0,0.0,0.0
+20203.0,Kansas,Wichita,0,0,0.0,0.0
 20205.0,Kansas,Wilson,3,0,0.0,0.0
 20207.0,Kansas,Woodson,10,0,0.0,0.0
 20209.0,Kansas,Wyandotte,2541,85,46.0,1.0
@@ -1085,6 +1123,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 21181.0,Kentucky,Nicholas,8,0,0.0,0.0
 21183.0,Kentucky,Ohio,188,0,0.0,0.0
 21185.0,Kentucky,Oldham,139,7,0.0,0.0
+80021.0,Kentucky,Out of KY,0,0,0.0,0.0
 21187.0,Kentucky,Owen,7,0,0.0,0.0
 21189.0,Kentucky,Owsley,3,0,0.0,0.0
 21191.0,Kentucky,Pendleton,19,0,0.0,0.0
@@ -1150,6 +1189,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 22069.0,Louisiana,Natchitoches,319,14,0.0,0.0
 22071.0,Louisiana,Orleans,8031,534,0.0,0.0
 22073.0,Louisiana,Ouachita,2591,80,0.0,0.0
+80022.0,Louisiana,Out of LA,0,0,0.0,0.0
 22075.0,Louisiana,Plaquemines,273,17,0.0,0.0
 22077.0,Louisiana,Pointe Coupee,274,28,0.0,0.0
 22079.0,Louisiana,Rapides,1653,66,0.0,0.0
@@ -1186,6 +1226,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 23011.0,Maine,Kennebec,146,10,-1.0,0.0
 23013.0,Maine,Knox,25,1,0.0,0.0
 23015.0,Maine,Lincoln,24,0,0.0,0.0
+80023.0,Maine,Out of ME,0,0,0.0,0.0
 23017.0,Maine,Oxford,42,0,2.0,0.0
 23019.0,Maine,Penobscot,114,2,2.0,0.0
 23021.0,Maine,Piscataquis,3,0,0.0,0.0
@@ -1211,6 +1252,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 24027.0,Maryland,Howard,2637,91,19.0,0.0
 24029.0,Maryland,Kent,200,23,0.0,0.0
 24031.0,Maryland,Montgomery,15082,748,61.0,1.0
+80024.0,Maryland,Out of MD,0,0,0.0,0.0
 24033.0,Maryland,Prince George's,18940,688,79.0,1.0
 24035.0,Maryland,Queen Anne's,240,20,6.0,1.0
 24039.0,Maryland,Somerset,87,3,0.0,0.0
@@ -1223,13 +1265,16 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 25001.0,Massachusetts,Barnstable,1419,149,1.0,1.0
 25003.0,Massachusetts,Berkshire,567,45,0.0,0.0
 25005.0,Massachusetts,Bristol,8028,590,3.0,3.0
+25007.0,Massachusetts,Dukes,0,0,0.0,0.0
 ,Massachusetts,Dukes and Nantucket,68,1,0.0,0.0
 25009.0,Massachusetts,Essex,15645,1119,10.0,3.0
 25011.0,Massachusetts,Franklin,343,55,0.0,0.0
 25013.0,Massachusetts,Hampden,6675,664,11.0,2.0
 25015.0,Massachusetts,Hampshire,931,116,0.0,1.0
 25017.0,Massachusetts,Middlesex,22738,1877,12.0,7.0
+25019.0,Massachusetts,Nantucket,0,0,0.0,0.0
 25021.0,Massachusetts,Norfolk,8482,937,4.0,3.0
+80025.0,Massachusetts,Out of MA,0,0,0.0,0.0
 25023.0,Massachusetts,Plymouth,8350,667,1.0,2.0
 25025.0,Massachusetts,Suffolk,18970,1008,9.0,-1.0
 90025.0,Massachusetts,Unassigned,786,7,9.0,0.0
@@ -1359,6 +1404,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 27071.0,Minnesota,Koochiching,14,1,0.0,0.0
 27073.0,Minnesota,Lac qui Parle,4,0,0.0,0.0
 27075.0,Minnesota,Lake,6,0,0.0,0.0
+27077.0,Minnesota,Lake of the Woods,0,0,0.0,0.0
 27079.0,Minnesota,Le Sueur,98,1,0.0,0.0
 27081.0,Minnesota,Lincoln,10,0,0.0,0.0
 27083.0,Minnesota,Lyon,309,2,0.0,0.0
@@ -1376,6 +1422,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 27107.0,Minnesota,Norman,20,0,0.0,0.0
 27109.0,Minnesota,Olmsted,1101,15,0.0,0.0
 27111.0,Minnesota,Otter Tail,93,1,0.0,0.0
+80027.0,Minnesota,Out of MN,0,0,0.0,0.0
 27113.0,Minnesota,Pennington,50,0,0.0,0.0
 27115.0,Minnesota,Pine,103,0,0.0,0.0
 27117.0,Minnesota,Pipestone,37,1,0.0,0.0
@@ -1461,6 +1508,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 28101.0,Mississippi,Newton,339,9,1.0,0.0
 28103.0,Mississippi,Noxubee,261,8,8.0,0.0
 28105.0,Mississippi,Oktibbeha,541,26,9.0,0.0
+80028.0,Mississippi,Out of MS,0,0,0.0,0.0
 28107.0,Mississippi,Panola,345,6,20.0,0.0
 28109.0,Mississippi,Pearl River,254,32,6.0,0.0
 28111.0,Mississippi,Perry,66,4,1.0,0.0
@@ -1480,6 +1528,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 28139.0,Mississippi,Tippah,130,11,2.0,0.0
 28141.0,Mississippi,Tishomingo,78,1,4.0,0.0
 28143.0,Mississippi,Tunica,100,3,7.0,0.0
+90028.0,Mississippi,Unassigned,0,0,0.0,0.0
 28145.0,Mississippi,Union,207,9,16.0,0.0
 28147.0,Mississippi,Walthall,200,4,20.0,0.0
 28149.0,Mississippi,Warren,511,18,15.0,0.0
@@ -1532,6 +1581,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 29079.0,Missouri,Grundy,20,0,0.0,0.0
 29081.0,Missouri,Harrison,17,0,0.0,0.0
 29083.0,Missouri,Henry,20,3,0.0,0.0
+29085.0,Missouri,Hickory,0,0,0.0,0.0
 29087.0,Missouri,Holt,1,0,0.0,0.0
 29089.0,Missouri,Howard,5,0,0.0,0.0
 29091.0,Missouri,Howell,45,0,0.0,0.0
@@ -1566,6 +1616,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 29147.0,Missouri,Nodaway,23,0,1.0,0.0
 29149.0,Missouri,Oregon,8,0,1.0,0.0
 29151.0,Missouri,Osage,9,0,2.0,0.0
+80029.0,Missouri,Out of MO,0,0,0.0,0.0
 29153.0,Missouri,Ozark,2,0,0.0,0.0
 29155.0,Missouri,Pemiscot,111,6,0.0,0.0
 29157.0,Missouri,Perry,149,0,0.0,0.0
@@ -1598,6 +1649,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 29211.0,Missouri,Sullivan,115,0,0.0,0.0
 29213.0,Missouri,Taney,83,2,9.0,0.0
 29215.0,Missouri,Texas,6,0,0.0,0.0
+90029.0,Missouri,Unassigned,0,0,0.0,0.0
 29217.0,Missouri,Vernon,27,1,1.0,0.0
 29219.0,Missouri,Warren,48,0,3.0,0.0
 29221.0,Missouri,Washington,25,1,0.0,0.0
@@ -1607,49 +1659,71 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 29229.0,Missouri,Wright,22,0,2.0,0.0
 30001.0,Montana,Beaverhead,1,0,0.0,0.0
 30003.0,Montana,Big Horn,86,4,0.0,0.0
+30005.0,Montana,Blaine,0,0,0.0,0.0
 30007.0,Montana,Broadwater,5,0,0.0,0.0
 30009.0,Montana,Carbon,27,0,1.0,0.0
+30011.0,Montana,Carter,0,0,0.0,0.0
 30013.0,Montana,Cascade,34,2,0.0,0.0
+30015.0,Montana,Chouteau,0,0,0.0,0.0
 30017.0,Montana,Custer,30,0,0.0,0.0
+30019.0,Montana,Daniels,0,0,0.0,0.0
 30021.0,Montana,Dawson,8,0,0.0,0.0
 30023.0,Montana,Deer Lodge,4,0,0.0,0.0
+30025.0,Montana,Fallon,0,0,0.0,0.0
 30027.0,Montana,Fergus,2,0,0.0,0.0
 30029.0,Montana,Flathead,63,2,1.0,0.0
 30031.0,Montana,Gallatin,287,1,5.0,0.0
+30033.0,Montana,Garfield,0,0,0.0,0.0
 30035.0,Montana,Glacier,22,0,0.0,0.0
 30037.0,Montana,Golden Valley,3,0,0.0,0.0
 30039.0,Montana,Granite,4,0,0.0,0.0
 30041.0,Montana,Hill,1,0,0.0,0.0
 30043.0,Montana,Jefferson,3,0,0.0,0.0
+30045.0,Montana,Judith Basin,0,0,0.0,0.0
 30047.0,Montana,Lake,19,0,1.0,0.0
 30049.0,Montana,Lewis and Clark,31,0,1.0,0.0
 30051.0,Montana,Liberty,1,0,0.0,0.0
 30053.0,Montana,Lincoln,9,1,1.0,0.0
 30057.0,Montana,Madison,15,1,2.0,0.0
+30055.0,Montana,McCone,0,0,0.0,0.0
 30059.0,Montana,Meagher,2,0,0.0,0.0
+30061.0,Montana,Mineral,0,0,0.0,0.0
 30063.0,Montana,Missoula,106,1,1.0,0.0
 30065.0,Montana,Musselshell,1,0,0.0,0.0
+80030.0,Montana,Out of MT,0,0,0.0,0.0
 30067.0,Montana,Park,13,0,1.0,0.0
+30069.0,Montana,Petroleum,0,0,0.0,0.0
+30071.0,Montana,Phillips,0,0,0.0,0.0
 30073.0,Montana,Pondera,2,0,-1.0,0.0
+30075.0,Montana,Powder River,0,0,0.0,0.0
+30077.0,Montana,Powell,0,0,0.0,0.0
+30079.0,Montana,Prairie,0,0,0.0,0.0
 30081.0,Montana,Ravalli,33,0,0.0,0.0
 30083.0,Montana,Richland,19,0,1.0,0.0
 30085.0,Montana,Roosevelt,7,0,0.0,0.0
 30087.0,Montana,Rosebud,10,1,0.0,0.0
+30089.0,Montana,Sanders,0,0,0.0,0.0
 30091.0,Montana,Sheridan,1,0,0.0,0.0
 30093.0,Montana,Silver Bow,19,0,1.0,0.0
 30095.0,Montana,Stillwater,6,0,0.0,0.0
+30097.0,Montana,Sweet Grass,0,0,0.0,0.0
 30099.0,Montana,Teton,10,0,5.0,0.0
 30101.0,Montana,Toole,31,6,0.0,0.0
 30103.0,Montana,Treasure,2,0,0.0,0.0
+90030.0,Montana,Unassigned,0,0,0.0,0.0
 30105.0,Montana,Valley,4,0,0.0,0.0
 30107.0,Montana,Wheatland,1,0,0.0,0.0
+30109.0,Montana,Wibaux,0,0,0.0,0.0
 30111.0,Montana,Yellowstone,245,4,19.0,0.0
 31001.0,Nebraska,Adams,299,11,1.0,0.0
 31003.0,Nebraska,Antelope,9,1,0.0,0.0
+31005.0,Nebraska,Arthur,0,0,0.0,0.0
 31007.0,Nebraska,Banner,2,0,0.0,0.0
+31009.0,Nebraska,Blaine,0,0,0.0,0.0
 31011.0,Nebraska,Boone,7,0,0.0,0.0
 31013.0,Nebraska,Box Butte,3,0,0.0,0.0
 31015.0,Nebraska,Boyd,1,0,0.0,0.0
+31017.0,Nebraska,Brown,0,0,0.0,0.0
 31019.0,Nebraska,Buffalo,195,1,3.0,0.0
 31021.0,Nebraska,Burt,14,0,0.0,0.0
 31023.0,Nebraska,Butler,51,0,0.0,0.0
@@ -1665,9 +1739,11 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 31043.0,Nebraska,Dakota,1774,37,2.0,0.0
 31045.0,Nebraska,Dawes,5,0,0.0,0.0
 31047.0,Nebraska,Dawson,861,8,0.0,0.0
+31049.0,Nebraska,Deuel,0,0,0.0,0.0
 31051.0,Nebraska,Dixon,50,2,0.0,0.0
 31053.0,Nebraska,Dodge,693,8,3.0,0.0
 31055.0,Nebraska,Douglas,7392,96,80.0,0.0
+31057.0,Nebraska,Dundy,0,0,0.0,0.0
 31059.0,Nebraska,Fillmore,14,1,0.0,0.0
 31061.0,Nebraska,Franklin,7,0,0.0,0.0
 31063.0,Nebraska,Frontier,1,0,0.0,0.0
@@ -1676,10 +1752,12 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 31069.0,Nebraska,Garden,4,0,0.0,0.0
 31071.0,Nebraska,Garfield,1,0,0.0,0.0
 31073.0,Nebraska,Gosper,13,0,0.0,0.0
+31075.0,Nebraska,Grant,0,0,0.0,0.0
 31077.0,Nebraska,Greeley,3,0,0.0,0.0
 31079.0,Nebraska,Hall,1599,47,2.0,0.0
 31081.0,Nebraska,Hamilton,64,12,0.0,0.0
 31083.0,Nebraska,Harlan,1,0,0.0,0.0
+31085.0,Nebraska,Hayes,0,0,0.0,0.0
 31087.0,Nebraska,Hitchcock,1,0,0.0,0.0
 31089.0,Nebraska,Holt,3,0,0.0,0.0
 31091.0,Nebraska,Hooker,1,0,0.0,0.0
@@ -1688,17 +1766,23 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 31097.0,Nebraska,Johnson,7,0,0.0,0.0
 31099.0,Nebraska,Kearney,16,0,1.0,0.0
 31101.0,Nebraska,Keith,4,0,0.0,0.0
+31103.0,Nebraska,Keya Paha,0,0,0.0,0.0
 31105.0,Nebraska,Kimball,11,0,0.0,0.0
 31107.0,Nebraska,Knox,22,0,1.0,0.0
 31109.0,Nebraska,Lancaster,1827,12,40.0,0.0
 31111.0,Nebraska,Lincoln,58,2,0.0,0.0
+31113.0,Nebraska,Logan,0,0,0.0,0.0
+31115.0,Nebraska,Loup,0,0,0.0,0.0
 31119.0,Nebraska,Madison,371,4,1.0,0.0
+31117.0,Nebraska,McPherson,0,0,0.0,0.0
 31121.0,Nebraska,Merrick,39,0,0.0,0.0
 31123.0,Nebraska,Morrill,46,0,0.0,0.0
 31125.0,Nebraska,Nance,4,0,0.0,0.0
 31127.0,Nebraska,Nemaha,6,0,0.0,0.0
 31129.0,Nebraska,Nuckolls,2,0,0.0,0.0
 31131.0,Nebraska,Otoe,25,0,0.0,0.0
+80031.0,Nebraska,Out of NE,0,0,0.0,0.0
+31133.0,Nebraska,Pawnee,0,0,0.0,0.0
 31135.0,Nebraska,Perkins,1,0,1.0,0.0
 31137.0,Nebraska,Phelps,26,0,0.0,0.0
 31139.0,Nebraska,Pierce,9,0,0.0,0.0
@@ -1724,12 +1808,14 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 31177.0,Nebraska,Washington,50,1,0.0,0.0
 31179.0,Nebraska,Wayne,28,0,0.0,0.0
 31181.0,Nebraska,Webster,7,0,0.0,0.0
+31183.0,Nebraska,Wheeler,0,0,0.0,0.0
 31185.0,Nebraska,York,45,0,0.0,0.0
 32510.0,Nevada,Carson City,172,5,5.0,0.0
 32001.0,Nevada,Churchill,16,1,2.0,0.0
 32003.0,Nevada,Clark,17707,435,679.0,0.0
 32005.0,Nevada,Douglas,72,0,2.0,0.0
 32007.0,Nevada,Elko,140,1,5.0,0.0
+32009.0,Nevada,Esmeralda,0,0,0.0,0.0
 32011.0,Nevada,Eureka,1,0,0.0,0.0
 32013.0,Nevada,Humboldt,84,4,-1.0,0.0
 32015.0,Nevada,Lander,38,0,3.0,0.0
@@ -1737,8 +1823,10 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 32019.0,Nevada,Lyon,126,2,3.0,0.0
 32021.0,Nevada,Mineral,5,0,0.0,0.0
 32023.0,Nevada,Nye,122,3,6.0,0.0
+80032.0,Nevada,Out of NV,0,0,0.0,0.0
 32027.0,Nevada,Pershing,9,0,3.0,0.0
 32029.0,Nevada,Storey,2,0,0.0,0.0
+90032.0,Nevada,Unassigned,0,0,0.0,0.0
 32031.0,Nevada,Washoe,3073,79,150.0,2.0
 32033.0,Nevada,White Pine,6,0,0.0,0.0
 33001.0,New Hampshire,Belknap,82,1,0.0,0.0
@@ -1748,6 +1836,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 33009.0,New Hampshire,Grafton,87,1,0.0,0.0
 33011.0,New Hampshire,Hillsborough,3322,253,10.0,2.0
 33013.0,New Hampshire,Merrimack,418,18,1.0,0.0
+80033.0,New Hampshire,Out of NH,0,0,0.0,0.0
 33015.0,New Hampshire,Rockingham,1492,90,3.0,1.0
 33017.0,New Hampshire,Strafford,295,13,1.0,0.0
 33019.0,New Hampshire,Sullivan,35,1,1.0,0.0
@@ -1767,6 +1856,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 34025.0,New Jersey,Monmouth,9272,820,24.0,3.0
 34027.0,New Jersey,Morris,6800,806,10.0,1.0
 34029.0,New Jersey,Ocean,9682,969,16.0,2.0
+80034.0,New Jersey,Out of NJ,0,0,0.0,0.0
 34031.0,New Jersey,Passaic,16941,1192,14.0,0.0
 34033.0,New Jersey,Salem,797,77,3.0,0.0
 34035.0,New Jersey,Somerset,4928,529,9.0,0.0
@@ -1780,6 +1870,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 35006.0,New Mexico,Cibola,231,14,10.0,0.0
 35007.0,New Mexico,Colfax,10,1,0.0,0.0
 35009.0,New Mexico,Curry,190,0,4.0,0.0
+35011.0,New Mexico,De Baca,0,0,0.0,0.0
 35013.0,New Mexico,Dona Ana,1094,10,55.0,0.0
 35015.0,New Mexico,Eddy,102,1,10.0,0.0
 35017.0,New Mexico,Grant,22,0,1.0,0.0
@@ -1791,7 +1882,9 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 35028.0,New Mexico,Los Alamos,8,0,0.0,0.0
 35029.0,New Mexico,Luna,97,3,4.0,0.0
 35031.0,New Mexico,McKinley,3483,179,33.0,2.0
+35033.0,New Mexico,Mora,0,0,0.0,0.0
 35035.0,New Mexico,Otero,58,7,7.0,0.0
+80035.0,New Mexico,Out of NM,0,0,0.0,0.0
 35037.0,New Mexico,Quay,6,1,0.0,0.0
 35039.0,New Mexico,Rio Arriba,106,1,0.0,0.0
 35041.0,New Mexico,Roosevelt,70,1,2.0,0.0
@@ -1845,6 +1938,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 36073.0,New York,Orleans,282,51,0.0,0.0
 36075.0,New York,Oswego,206,3,0.0,0.0
 36077.0,New York,Otsego,86,5,2.0,0.0
+80036.0,New York,Out of NY,0,0,0.0,0.0
 36079.0,New York,Putnam,1335,63,2.0,0.0
 36081.0,New York,Queens,65800,7085,95.0,4.0
 36083.0,New York,Rensselaer,563,30,4.0,0.0
@@ -1937,6 +2031,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 37131.0,North Carolina,Northampton,188,15,1.0,0.0
 37133.0,North Carolina,Onslow,353,3,7.0,0.0
 37135.0,North Carolina,Orange,831,42,24.0,0.0
+80037.0,North Carolina,Out of NC,0,0,0.0,0.0
 37137.0,North Carolina,Pamlico,25,1,0.0,0.0
 37139.0,North Carolina,Pasquotank,226,17,2.0,0.0
 37141.0,North Carolina,Pender,304,2,5.0,0.0
@@ -1958,6 +2053,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 37173.0,North Carolina,Swain,62,1,0.0,0.0
 37175.0,North Carolina,Transylvania,32,1,4.0,0.0
 37177.0,North Carolina,Tyrrell,16,0,3.0,0.0
+90037.0,North Carolina,Unassigned,0,0,0.0,0.0
 37179.0,North Carolina,Union,1470,25,33.0,0.0
 37181.0,North Carolina,Vance,527,38,3.0,0.0
 37183.0,North Carolina,Wake,5933,49,171.0,0.0
@@ -1969,6 +2065,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 37195.0,North Carolina,Wilson,794,19,14.0,-1.0
 37197.0,North Carolina,Yadkin,340,5,2.0,1.0
 37199.0,North Carolina,Yancey,44,0,0.0,0.0
+38001.0,North Dakota,Adams,0,0,0.0,0.0
 38003.0,North Dakota,Barnes,20,0,0.0,0.0
 38005.0,North Dakota,Benson,4,0,0.0,0.0
 38007.0,North Dakota,Billings,1,0,0.0,0.0
@@ -1984,12 +2081,14 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 38027.0,North Dakota,Eddy,5,0,0.0,0.0
 38029.0,North Dakota,Emmons,4,1,0.0,0.0
 38031.0,North Dakota,Foster,2,0,0.0,0.0
+38033.0,North Dakota,Golden Valley,0,0,0.0,0.0
 38035.0,North Dakota,Grand Forks,402,4,5.0,0.0
 38037.0,North Dakota,Grant,3,0,0.0,0.0
 38039.0,North Dakota,Griggs,2,0,0.0,0.0
 38041.0,North Dakota,Hettinger,1,0,0.0,0.0
 38043.0,North Dakota,Kidder,2,0,0.0,0.0
 38045.0,North Dakota,LaMoure,13,0,0.0,0.0
+38047.0,North Dakota,Logan,0,0,0.0,0.0
 38049.0,North Dakota,McHenry,5,1,1.0,0.0
 38051.0,North Dakota,McIntosh,2,0,0.0,0.0
 38053.0,North Dakota,McKenzie,27,0,0.0,0.0
@@ -1999,6 +2098,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 38061.0,North Dakota,Mountrail,54,0,3.0,0.0
 38063.0,North Dakota,Nelson,1,0,0.0,0.0
 38065.0,North Dakota,Oliver,2,0,0.0,0.0
+80038.0,North Dakota,Out of ND,0,0,0.0,0.0
 38067.0,North Dakota,Pembina,10,0,1.0,0.0
 38069.0,North Dakota,Pierce,5,0,0.0,0.0
 38071.0,North Dakota,Ramsey,11,1,0.0,0.0
@@ -2013,7 +2113,9 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 38089.0,North Dakota,Stark,77,3,0.0,0.0
 38091.0,North Dakota,Steele,2,0,0.0,0.0
 38093.0,North Dakota,Stutsman,63,1,0.0,0.0
+38095.0,North Dakota,Towner,0,0,0.0,0.0
 38097.0,North Dakota,Traill,21,0,0.0,0.0
+90038.0,North Dakota,Unassigned,0,0,0.0,0.0
 38099.0,North Dakota,Walsh,26,0,0.0,0.0
 38101.0,North Dakota,Ward,64,1,3.0,0.0
 38103.0,North Dakota,Wells,9,0,0.0,0.0
@@ -2081,6 +2183,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39119.0,Ohio,Muskingum,81,1,5.0,0.0
 39121.0,Ohio,Noble,11,0,0.0,0.0
 39123.0,Ohio,Ottawa,143,23,4.0,0.0
+80039.0,Ohio,Out of OH,0,0,0.0,0.0
 39125.0,Ohio,Paulding,23,0,0.0,0.0
 39127.0,Ohio,Perry,32,1,0.0,0.0
 39129.0,Ohio,Pickaway,2188,41,4.0,0.0
@@ -2098,6 +2201,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 39153.0,Ohio,Summit,2110,206,31.0,0.0
 39155.0,Ohio,Trumbull,925,65,9.0,0.0
 39157.0,Ohio,Tuscarawas,541,10,12.0,0.0
+90039.0,Ohio,Unassigned,0,0,0.0,0.0
 39159.0,Ohio,Union,82,1,2.0,0.0
 39161.0,Ohio,Van Wert,34,0,2.0,0.0
 39163.0,Ohio,Vinton,22,2,0.0,0.0
@@ -2165,12 +2269,14 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 40111.0,Oklahoma,Okmulgee,68,0,0.0,0.0
 40113.0,Oklahoma,Osage,182,8,6.0,0.0
 40115.0,Oklahoma,Ottawa,80,2,3.0,0.0
+80040.0,Oklahoma,Out of OK,0,0,0.0,0.0
 40117.0,Oklahoma,Pawnee,58,2,1.0,0.0
 40119.0,Oklahoma,Payne,417,1,10.0,0.0
 40121.0,Oklahoma,Pittsburg,64,3,3.0,0.0
 40123.0,Oklahoma,Pontotoc,44,2,0.0,0.0
 40125.0,Oklahoma,Pottawatomie,115,4,3.0,0.0
 40127.0,Oklahoma,Pushmataha,17,0,1.0,0.0
+40129.0,Oklahoma,Roger Mills,0,0,0.0,0.0
 40131.0,Oklahoma,Rogers,214,6,12.0,0.0
 40133.0,Oklahoma,Seminole,43,3,0.0,0.0
 40135.0,Oklahoma,Sequoyah,46,3,2.0,0.0
@@ -2178,6 +2284,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 40139.0,Oklahoma,Texas,993,6,3.0,0.0
 40141.0,Oklahoma,Tillman,25,1,1.0,0.0
 40143.0,Oklahoma,Tulsa,3974,72,182.0,0.0
+90040.0,Oklahoma,Unassigned,0,0,0.0,0.0
 40145.0,Oklahoma,Wagoner,308,19,19.0,0.0
 40147.0,Oklahoma,Washington,403,39,2.0,0.0
 40149.0,Oklahoma,Washita,5,0,0.0,0.0
@@ -2209,14 +2316,17 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 41047.0,Oregon,Marion,1610,47,15.0,0.0
 41049.0,Oregon,Morrow,93,1,11.0,0.0
 41051.0,Oregon,Multnomah,2417,69,56.0,0.0
+80041.0,Oregon,Out of OR,0,0,0.0,0.0
 41053.0,Oregon,Polk,159,12,5.0,0.0
 41055.0,Oregon,Sherman,2,0,0.0,0.0
 41057.0,Oregon,Tillamook,14,0,1.0,0.0
 41059.0,Oregon,Umatilla,716,6,49.0,2.0
+90041.0,Oregon,Unassigned,0,0,0.0,0.0
 41061.0,Oregon,Union,355,1,0.0,0.0
 41063.0,Oregon,Wallowa,10,0,0.0,0.0
 41065.0,Oregon,Wasco,88,1,3.0,0.0
 41067.0,Oregon,Washington,1534,20,43.0,0.0
+41069.0,Oregon,Wheeler,0,0,0.0,0.0
 41071.0,Oregon,Yamhill,132,8,0.0,0.0
 42001.0,Pennsylvania,Adams,349,13,5.0,0.0
 42003.0,Pennsylvania,Allegheny,3430,190,150.0,0.0
@@ -2267,6 +2377,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 42093.0,Pennsylvania,Montour,75,2,0.0,1.0
 42095.0,Pennsylvania,Northampton,3463,272,5.0,0.0
 42097.0,Pennsylvania,Northumberland,323,8,3.0,0.0
+80042.0,Pennsylvania,Out of PA,0,0,0.0,0.0
 42099.0,Pennsylvania,Perry,86,5,0.0,0.0
 42101.0,Pennsylvania,Philadelphia,26565,1619,29.0,0.0
 42103.0,Pennsylvania,Pike,502,21,2.0,0.0
@@ -2277,6 +2388,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 42113.0,Pennsylvania,Sullivan,10,0,4.0,0.0
 42115.0,Pennsylvania,Susquehanna,185,24,0.0,0.0
 42117.0,Pennsylvania,Tioga,26,2,0.0,0.0
+90042.0,Pennsylvania,Unassigned,0,0,0.0,0.0
 42119.0,Pennsylvania,Union,95,2,1.0,0.0
 42121.0,Pennsylvania,Venango,23,0,0.0,0.0
 42123.0,Pennsylvania,Warren,7,1,0.0,0.0
@@ -2361,12 +2473,14 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 72141.0,Puerto Rico,Utuado,1,0,0.0,0.0
 72143.0,Puerto Rico,Vega Alta,13,0,0.0,0.0
 72145.0,Puerto Rico,Vega Baja,10,0,0.0,0.0
+72147.0,Puerto Rico,Vieques,0,0,0.0,0.0
 72149.0,Puerto Rico,Villalba,15,0,0.0,0.0
 72151.0,Puerto Rico,Yabucoa,7,0,0.0,0.0
 72153.0,Puerto Rico,Yauco,23,0,0.0,0.0
 44001.0,Rhode Island,Bristol,256,15,0.0,0.0
 44003.0,Rhode Island,Kent,1234,102,0.0,0.0
 44005.0,Rhode Island,Newport,331,7,0.0,0.0
+80044.0,Rhode Island,Out of RI,0,0,0.0,0.0
 44007.0,Rhode Island,Providence,13144,789,0.0,0.0
 90044.0,Rhode Island,Unassigned,1488,3,0.0,0.0
 44009.0,Rhode Island,Washington,538,64,0.0,0.0
@@ -2408,11 +2522,13 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 45071.0,South Carolina,Newberry,291,5,4.0,1.0
 45073.0,South Carolina,Oconee,318,1,14.0,0.0
 45075.0,South Carolina,Orangeburg,882,15,29.0,1.0
+80045.0,South Carolina,Out of SC,0,0,0.0,0.0
 45077.0,South Carolina,Pickens,942,5,21.0,0.0
 45079.0,South Carolina,Richland,4013,87,147.0,1.0
 45081.0,South Carolina,Saluda,226,1,2.0,0.0
 45083.0,South Carolina,Spartanburg,1835,50,37.0,1.0
 45085.0,South Carolina,Sumter,1185,26,27.0,1.0
+90045.0,South Carolina,Unassigned,0,0,0.0,0.0
 45087.0,South Carolina,Union,101,0,3.0,0.0
 45089.0,South Carolina,Williamsburg,430,15,9.0,0.0
 45091.0,South Carolina,York,1456,12,50.0,0.0
@@ -2424,6 +2540,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 46013.0,South Dakota,Brown,343,2,-1.0,0.0
 46015.0,South Dakota,Brule,29,0,0.0,0.0
 46017.0,South Dakota,Buffalo,76,3,0.0,0.0
+46019.0,South Dakota,Butte,0,0,0.0,0.0
 46021.0,South Dakota,Campbell,1,0,0.0,0.0
 46023.0,South Dakota,Charles Mix,91,0,1.0,0.0
 46025.0,South Dakota,Clark,15,0,0.0,0.0
@@ -2441,14 +2558,17 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 46049.0,South Dakota,Faulk,23,1,0.0,0.0
 46051.0,South Dakota,Grant,13,0,0.0,0.0
 46053.0,South Dakota,Gregory,4,0,0.0,0.0
+46055.0,South Dakota,Haakon,0,0,0.0,0.0
 46057.0,South Dakota,Hamlin,13,0,0.0,0.0
 46059.0,South Dakota,Hand,7,0,0.0,0.0
 46061.0,South Dakota,Hanson,9,0,1.0,0.0
+46063.0,South Dakota,Harding,0,0,0.0,0.0
 46065.0,South Dakota,Hughes,64,0,0.0,0.0
 46067.0,South Dakota,Hutchinson,14,0,1.0,0.0
 46069.0,South Dakota,Hyde,3,0,0.0,0.0
 46071.0,South Dakota,Jackson,6,1,0.0,0.0
 46073.0,South Dakota,Jerauld,39,1,0.0,0.0
+46075.0,South Dakota,Jones,0,0,0.0,0.0
 46077.0,South Dakota,Kingsbury,6,0,0.0,0.0
 46079.0,South Dakota,Lake,22,1,0.0,0.0
 46081.0,South Dakota,Lawrence,19,0,0.0,0.0
@@ -2463,7 +2583,10 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 46099.0,South Dakota,Minnehaha,3659,58,4.0,0.0
 46101.0,South Dakota,Moody,23,0,0.0,0.0
 46102.0,South Dakota,Oglala Lakota,94,0,5.0,0.0
+80046.0,South Dakota,Out of SD,0,0,0.0,0.0
 46103.0,South Dakota,Pennington,556,17,10.0,0.0
+46105.0,South Dakota,Perkins,0,0,0.0,0.0
+46107.0,South Dakota,Potter,0,0,0.0,0.0
 46109.0,South Dakota,Roberts,49,0,0.0,0.0
 46111.0,South Dakota,Sanborn,12,0,0.0,0.0
 46115.0,South Dakota,Spink,12,0,0.0,0.0
@@ -2472,6 +2595,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 46121.0,South Dakota,Todd,57,1,0.0,0.0
 46123.0,South Dakota,Tripp,18,0,0.0,0.0
 46125.0,South Dakota,Turner,25,0,0.0,0.0
+90046.0,South Dakota,Unassigned,0,0,0.0,0.0
 46127.0,South Dakota,Union,133,1,1.0,0.0
 46129.0,South Dakota,Walworth,15,0,1.0,0.0
 46135.0,South Dakota,Yankton,79,0,0.0,0.0
@@ -2589,6 +2713,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 48027.0,Texas,Bell,1523,13,43.0,0.0
 48029.0,Texas,Bexar,14212,117,1334.0,2.0
 48031.0,Texas,Blanco,31,1,0.0,0.0
+48033.0,Texas,Borden,0,0,0.0,0.0
 48035.0,Texas,Bosque,16,0,0.0,0.0
 48037.0,Texas,Bowie,449,12,5.0,0.0
 48039.0,Texas,Brazoria,2626,22,110.0,0.0
@@ -2649,6 +2774,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 48149.0,Texas,Fayette,104,3,8.0,1.0
 48151.0,Texas,Fisher,10,1,0.0,0.0
 48153.0,Texas,Floyd,36,1,2.0,0.0
+48155.0,Texas,Foard,0,0,0.0,0.0
 48157.0,Texas,Fort Bend,4120,56,121.0,0.0
 48159.0,Texas,Franklin,50,0,0.0,0.0
 48161.0,Texas,Freestone,33,0,0.0,0.0
@@ -2702,8 +2828,10 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 48257.0,Texas,Kaufman,758,5,34.0,0.0
 48259.0,Texas,Kendall,90,0,20.0,0.0
 48261.0,Texas,Kenedy,1,0,0.0,0.0
+48263.0,Texas,Kent,0,0,0.0,0.0
 48265.0,Texas,Kerr,111,1,2.0,0.0
 48267.0,Texas,Kimble,6,0,0.0,0.0
+48269.0,Texas,King,0,0,0.0,0.0
 48271.0,Texas,Kinney,2,0,0.0,0.0
 48273.0,Texas,Kleberg,87,1,8.0,0.0
 48275.0,Texas,Knox,3,0,0.0,0.0
@@ -2719,6 +2847,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 48295.0,Texas,Lipscomb,11,0,0.0,0.0
 48297.0,Texas,Live Oak,31,0,0.0,0.0
 48299.0,Texas,Llano,11,0,0.0,0.0
+48301.0,Texas,Loving,0,0,0.0,0.0
 48303.0,Texas,Lubbock,2620,52,0.0,0.0
 48305.0,Texas,Lynn,39,1,1.0,0.0
 48313.0,Texas,Madison,45,0,7.0,0.0
@@ -2729,6 +2858,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 48323.0,Texas,Maverick,519,5,64.0,0.0
 48307.0,Texas,McCulloch,20,0,3.0,0.0
 48309.0,Texas,McLennan,1563,9,271.0,0.0
+48311.0,Texas,McMullen,0,0,0.0,0.0
 48325.0,Texas,Medina,295,2,2.0,0.0
 48327.0,Texas,Menard,8,0,0.0,0.0
 48329.0,Texas,Midland,772,15,0.0,0.0
@@ -2748,6 +2878,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 48357.0,Texas,Ochiltree,53,2,0.0,0.0
 48359.0,Texas,Oldham,4,1,0.0,0.0
 48361.0,Texas,Orange,303,5,0.0,0.0
+80048.0,Texas,Out of TX,0,0,0.0,0.0
 48363.0,Texas,Palo Pinto,38,2,4.0,0.0
 48365.0,Texas,Panola,214,24,1.0,0.0
 48367.0,Texas,Parker,344,1,11.0,0.0
@@ -2782,6 +2913,8 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 48425.0,Texas,Somervell,11,0,2.0,0.0
 48427.0,Texas,Starr,823,3,0.0,0.0
 48429.0,Texas,Stephens,8,0,0.0,0.0
+48431.0,Texas,Sterling,0,0,0.0,0.0
+48433.0,Texas,Stonewall,0,0,0.0,0.0
 48435.0,Texas,Sutton,11,0,0.0,0.0
 48437.0,Texas,Swisher,38,1,1.0,0.0
 48439.0,Texas,Tarrant,13423,233,0.0,0.0
@@ -2794,6 +2927,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 48453.0,Texas,Travis,11009,134,314.0,1.0
 48455.0,Texas,Trinity,44,0,2.0,0.0
 48457.0,Texas,Tyler,27,0,0.0,0.0
+90048.0,Texas,Unassigned,0,0,0.0,0.0
 48459.0,Texas,Upshur,66,0,1.0,0.0
 48461.0,Texas,Upton,6,0,0.0,0.0
 48463.0,Texas,Uvalde,137,1,40.0,0.0
@@ -2820,17 +2954,41 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 48505.0,Texas,Zapata,56,0,1.0,0.0
 48507.0,Texas,Zavala,25,0,2.0,0.0
 ,Utah,Bear River,1606,3,38.0,0.0
+49001.0,Utah,Beaver,0,0,0.0,0.0
+49003.0,Utah,Box Elder,0,0,0.0,0.0
+49005.0,Utah,Cache,0,0,0.0,0.0
+49007.0,Utah,Carbon,0,0,0.0,0.0
 ,Utah,Central Utah,201,0,7.0,0.0
+49009.0,Utah,Daggett,0,0,0.0,0.0
 49011.0,Utah,Davis,1379,5,57.0,0.0
+49013.0,Utah,Duchesne,0,0,0.0,0.0
+49015.0,Utah,Emery,0,0,0.0,0.0
+49017.0,Utah,Garfield,0,0,0.0,0.0
+49019.0,Utah,Grand,0,0,0.0,0.0
+49021.0,Utah,Iron,0,0,0.0,0.0
+49023.0,Utah,Juab,0,0,0.0,0.0
+49025.0,Utah,Kane,0,0,0.0,0.0
+49027.0,Utah,Millard,0,0,0.0,0.0
+49029.0,Utah,Morgan,0,0,0.0,0.0
+80049.0,Utah,Out of UT,0,0,0.0,0.0
+49031.0,Utah,Piute,0,0,0.0,0.0
+49033.0,Utah,Rich,0,0,0.0,0.0
 49035.0,Utah,Salt Lake,12343,112,293.0,0.0
 49037.0,Utah,San Juan,413,9,10.0,0.0
+49039.0,Utah,Sanpete,0,0,0.0,0.0
+49041.0,Utah,Sevier,0,0,0.0,0.0
 ,Utah,Southeast Utah,40,0,0.0,0.0
 ,Utah,Southwest Utah,1660,12,35.0,0.0
 49043.0,Utah,Summit,515,1,7.0,0.0
 49045.0,Utah,Tooele,265,0,10.0,0.0
 ,Utah,TriCounty,55,0,2.0,0.0
+49047.0,Utah,Uintah,0,0,0.0,0.0
+90049.0,Utah,Unassigned,0,0,0.0,0.0
 49049.0,Utah,Utah,4474,22,134.0,0.0
 49051.0,Utah,Wasatch,419,3,1.0,0.0
+49053.0,Utah,Washington,0,0,0.0,0.0
+49055.0,Utah,Wayne,0,0,0.0,0.0
+49057.0,Utah,Weber,0,0,0.0,0.0
 ,Utah,Weber-Morgan,1172,14,82.0,0.0
 50001.0,Vermont,Addison,68,2,0.0,0.0
 50003.0,Vermont,Bennington,73,1,0.0,0.0
@@ -2842,6 +3000,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 50015.0,Vermont,Lamoille,32,1,1.0,0.0
 50017.0,Vermont,Orange,9,0,0.0,0.0
 50019.0,Vermont,Orleans,14,0,0.0,0.0
+80050.0,Vermont,Out of VT,0,0,0.0,0.0
 50021.0,Vermont,Rutland,74,1,0.0,0.0
 90050.0,Vermont,Unassigned,5,0,0.0,0.0
 50023.0,Vermont,Washington,41,1,0.0,0.0
@@ -2857,6 +3016,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 51011.0,Virginia,Appomattox,43,0,0.0,0.0
 51013.0,Virginia,Arlington,2519,131,19.0,-1.0
 51015.0,Virginia,Augusta,192,2,2.0,0.0
+51017.0,Virginia,Bath,0,0,0.0,0.0
 51019.0,Virginia,Bedford,137,3,6.0,0.0
 51021.0,Virginia,Bland,2,0,0.0,0.0
 51023.0,Virginia,Botetourt,133,4,0.0,0.0
@@ -2938,6 +3098,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 51720.0,Virginia,Norton,4,0,0.0,0.0
 51135.0,Virginia,Nottoway,114,2,0.0,0.0
 51137.0,Virginia,Orange,153,3,1.0,0.0
+80051.0,Virginia,Out of VA,0,0,0.0,0.0
 51139.0,Virginia,Page,281,23,0.0,0.0
 51141.0,Virginia,Patrick,48,1,0.0,0.0
 51730.0,Virginia,Petersburg,271,5,15.0,0.0
@@ -2970,6 +3131,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 51181.0,Virginia,Surry,17,1,1.0,0.0
 51183.0,Virginia,Sussex,209,5,1.0,0.0
 51185.0,Virginia,Tazewell,16,0,0.0,0.0
+90051.0,Virginia,Unassigned,0,0,0.0,0.0
 51810.0,Virginia,Virginia Beach,1300,30,46.0,0.0
 51187.0,Virginia,Warren,295,8,1.0,1.0
 51191.0,Virginia,Washington,66,4,1.0,0.0
@@ -2991,6 +3153,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 53017.0,Washington,Douglas,273,3,8.0,0.0
 53019.0,Washington,Ferry,1,0,0.0,0.0
 53021.0,Washington,Franklin,1840,33,47.0,0.0
+53023.0,Washington,Garfield,0,0,0.0,0.0
 53025.0,Washington,Grant,536,6,7.0,0.0
 53027.0,Washington,Grays Harbor,26,0,0.0,0.0
 53029.0,Washington,Island,197,12,1.0,0.0
@@ -3003,6 +3166,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 53043.0,Washington,Lincoln,4,0,0.0,0.0
 53045.0,Washington,Mason,53,1,0.0,0.0
 53047.0,Washington,Okanogan,92,2,4.0,0.0
+80053.0,Washington,Out of WA,0,0,0.0,0.0
 53049.0,Washington,Pacific,18,1,0.0,0.0
 53051.0,Washington,Pend Oreille,5,0,1.0,0.0
 53053.0,Washington,Pierce,2749,105,48.0,0.0
@@ -3027,6 +3191,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 54011.0,West Virginia,Cabell,153,0,4.0,0.0
 54013.0,West Virginia,Calhoun,2,0,0.0,0.0
 54015.0,West Virginia,Clay,10,1,0.0,0.0
+54017.0,West Virginia,Doddridge,0,0,0.0,0.0
 54019.0,West Virginia,Fayette,67,4,0.0,0.0
 54021.0,West Virginia,Gilmer,13,0,0.0,0.0
 54023.0,West Virginia,Grant,16,0,0.0,0.0
@@ -3053,6 +3218,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 54065.0,West Virginia,Morgan,20,0,0.0,0.0
 54067.0,West Virginia,Nicholas,14,1,1.0,0.0
 54069.0,West Virginia,Ohio,105,1,2.0,0.0
+80054.0,West Virginia,Out of WV,0,0,0.0,0.0
 54071.0,West Virginia,Pendleton,13,1,0.0,0.0
 54073.0,West Virginia,Pleasants,5,0,0.0,0.0
 54075.0,West Virginia,Pocahontas,31,0,2.0,0.0
@@ -3066,8 +3232,10 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 54091.0,West Virginia,Taylor,18,0,1.0,0.0
 54093.0,West Virginia,Tucker,6,0,0.0,0.0
 54095.0,West Virginia,Tyler,4,0,0.0,0.0
+90054.0,West Virginia,Unassigned,0,0,0.0,0.0
 54097.0,West Virginia,Upshur,21,0,0.0,0.0
 54099.0,West Virginia,Wayne,115,9,0.0,0.0
+54101.0,West Virginia,Webster,0,0,0.0,0.0
 54103.0,West Virginia,Wetzel,12,0,0.0,0.0
 54105.0,West Virginia,Wirt,4,0,0.0,0.0
 54107.0,West Virginia,Wood,119,2,8.0,0.0
@@ -3116,6 +3284,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 55081.0,Wisconsin,Monroe,79,1,6.0,0.0
 55083.0,Wisconsin,Oconto,63,0,1.0,0.0
 55085.0,Wisconsin,Oneida,20,0,0.0,0.0
+80055.0,Wisconsin,Out of WI,0,0,0.0,0.0
 55087.0,Wisconsin,Outagamie,524,9,16.0,0.0
 55089.0,Wisconsin,Ozaukee,253,16,11.0,0.0
 55091.0,Wisconsin,Pepin,1,0,0.0,0.0
@@ -3134,6 +3303,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 55109.0,Wisconsin,St. Croix,202,1,11.0,0.0
 55119.0,Wisconsin,Taylor,16,0,0.0,0.0
 55121.0,Wisconsin,Trempealeau,129,0,3.0,0.0
+90055.0,Wisconsin,Unassigned,0,0,0.0,0.0
 55123.0,Wisconsin,Vernon,38,0,0.0,0.0
 55125.0,Wisconsin,Vilas,10,0,0.0,0.0
 55127.0,Wisconsin,Walworth,677,18,27.0,0.0
@@ -3158,6 +3328,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 56023.0,Wyoming,Lincoln,34,0,1.0,0.0
 56025.0,Wyoming,Natrona,136,0,2.0,0.0
 56027.0,Wyoming,Niobrara,2,0,0.0,0.0
+80056.0,Wyoming,Out of WY,0,0,0.0,0.0
 56029.0,Wyoming,Park,61,0,0.0,0.0
 56031.0,Wyoming,Platte,4,0,0.0,0.0
 56033.0,Wyoming,Sheridan,27,0,0.0,0.0
