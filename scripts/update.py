@@ -40,7 +40,7 @@ def readData():
 
     # df = df.drop(['Lat_y', 'Long__y'], axis=1)
     # df = df.rename(columns={"Lat_x": "Latitude", "Long__x": "Longitude"})
-    df = df.drop(df[(df.Confirmed == 0) & (df.Deaths == 0)].index)
+    # df = df.drop(df[(df.Confirmed == 0) & (df.Deaths == 0)].index)
     df[["Confirmed", "Deaths", "Daily_Confirmed", "Daily_Deaths"]] = \
         df[["Confirmed", "Deaths", "Daily_Confirmed", "Daily_Deaths"]].fillna(0)
     return df[["FIPS","Province_State", "Admin2","Date","Confirmed","Deaths",
