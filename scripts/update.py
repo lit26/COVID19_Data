@@ -96,15 +96,20 @@ def getTimeSeriesData(df, df_state):
             dir_path + '/covid_19_county.csv', index=False)
 
 def loadData():
+    print('[INFO] Fetching Data...')
     df = readData()
     df["Admin2"] = df["Admin2"].fillna(df["Province_State"])
     df_state = df.groupby(["Province_State", "Date"]).sum().reset_index()
     df_state = df_state[["Province_State","Date","Confirmed","Deaths","Daily_Confirmed","Daily_Deaths"]]
+    print('[INFO] Processing timeseries data...')
     getTimeSeriesData(df, df_state)
+    print('[INFO] Printing csv data...')
     df.to_csv('data/covid_19_county.csv', index=False)
     df_state.to_csv('data/covid_19_state.csv', index=False)
+    print('[INFO] Printing json data...')
     jsonOutput(df_state, 'state')
     jsonOutput(df, 'county')
+    print('[INFO] Done.')
 
 if __name__ == '__main__':
     loadData()
