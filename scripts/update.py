@@ -63,11 +63,10 @@ def jsonOutput(df, geo):
             }
         else:
             county_list = df[df["Province_State"] == state]['Admin2'].unique()
+            data[state] = {}
             for county in county_list:
-                # df2 = df[df["Admin2"] == county]
                 df2 = df.loc[(df['Province_State'] == state) & (df['Admin2'] == county)]
-                data[df2["FIPS"].values[0]] = {
-                    'State': state,
+                data[state][df2["FIPS"].values[0]] = {
                     'County': county,
                     'Date': df2['Date'].dt.strftime('%Y-%m-%d').to_list(),
                     'Confirmed': df2['Confirmed'].to_list(),
