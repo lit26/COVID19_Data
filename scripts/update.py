@@ -83,7 +83,7 @@ def jsonOutput(df, geo):
 
 def getTimeSeriesData(df, df_state):
     base_path = 'time_series_data/'
-    for i in sorted(set(df_state['Date'].to_list())):
+    for i in sorted(set(df_state['Date'].to_list()))[-5:]:
         dir_path = base_path + i.strftime("%Y-%m-%d")
         if not os.path.isdir(dir_path):
             os.mkdir(dir_path)
