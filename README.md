@@ -37,33 +37,33 @@ state.json
 ```
 {
     "Meta": {
-    "Version": "v1",
-    "Columns": [
-      "Date",
-      "Confirmed",
-      "Deaths",
-      "Daily_Confirmed",
-      "Daily_Deaths"
-    ]
+        "Version": "v1",
+        "Columns": [
+              "Date",
+              "Confirmed",
+              "Deaths",
+              "Daily_Confirmed",
+              "Daily_Deaths"
+        ]
   },
   "Data": {
-    "Alabama": {
-      "Date": [
-       ...
-      ],
-      "Confirmed": [
-       ...
-      ],
-      "Deaths": [
-       ...
-      ],
-      "Daily_Confirmed": [
-       ...
-      ],
-      "Daily_Deaths": [
-       ...
-      ]
-    },...
+        "Alabama": {
+              "Date": [
+                ...
+              ],
+              "Confirmed": [
+                ...
+              ],
+              "Deaths": [
+                ...
+              ],
+              "Daily_Confirmed": [
+                ...
+              ],
+              "Daily_Deaths": [
+                ...
+              ]
+        },...
 }
 ...
 ```
@@ -71,36 +71,36 @@ county.json
 ```
 {
     "Meta": {
-    "Version": "v1",
-    "Columns": [
-      "Date",
-      "Confirmed",
-      "Deaths",
-      "Daily_Confirmed",
-      "Daily_Deaths"
-    ]
+        "Version": "v1",
+        "Columns": [
+              "Date",
+              "Confirmed",
+              "Deaths",
+              "Daily_Confirmed",
+              "Daily_Deaths"
+        ]
   },
   "Data": {
-    "Alabama": {
-      "1001.0":{
-        "County": "Autauga",
-        "Date": [
-         ...
-        ],
-        "Confirmed": [
-         ...
-        ],
-        "Deaths": [
-         ...
-        ],
-        "Daily_Confirmed": [
-         ...
-        ],
-        "Daily_Deaths": [
-         ...
-        ]
-      }
-    }, ...
+        "Alabama": {
+              "1001.0":{
+                    "County": "Autauga",
+                    "Date": [
+                        ...
+                    ],
+                    "Confirmed": [
+                        ...
+                    ],
+                    "Deaths": [
+                        ...
+                    ],
+                    "Daily_Confirmed": [
+                        ...
+                    ],
+                    "Daily_Deaths": [
+                        ...
+                    ]
+              }
+        }, ...
 }
 ...
 ```
