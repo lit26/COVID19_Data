@@ -70,32 +70,32 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 1133.0,Alabama,Winston,1419,24,44.0,1.0
 2013.0,Alaska,Aleutians East,40,0,2.0,0.0
 2016.0,Alaska,Aleutians West,111,0,3.0,0.0
-2020.0,Alaska,Anchorage,16981,69,243.0,0.0
-2050.0,Alaska,Bethel,1602,5,12.0,0.0
+2020.0,Alaska,Anchorage,17278,69,240.0,0.0
+2050.0,Alaska,Bethel,1607,5,12.0,0.0
 2060.0,Alaska,Bristol Bay,0,0,0.0,0.0
-2164.0,Alaska,Bristol Bay plus Lake and Peninsula,78,0,1.0,0.0
+2164.0,Alaska,Bristol Bay plus Lake and Peninsula,145,0,1.0,0.0
 2068.0,Alaska,Denali,44,0,1.0,0.0
-2070.0,Alaska,Dillingham,79,1,1.0,0.0
+2070.0,Alaska,Dillingham,102,1,1.0,0.0
 2090.0,Alaska,Fairbanks North Star,3507,17,15.0,0.0
 2100.0,Alaska,Haines,17,0,0.0,0.0
 2105.0,Alaska,Hoonah-Angoon,0,0,0.0,0.0
 2110.0,Alaska,Juneau,868,5,5.0,0.0
-2122.0,Alaska,Kenai Peninsula,2740,9,82.0,0.0
+2122.0,Alaska,Kenai Peninsula,2736,9,79.0,0.0
 2130.0,Alaska,Ketchikan Gateway,199,0,1.0,0.0
 2150.0,Alaska,Kodiak Island,320,0,24.0,0.0
 2158.0,Alaska,Kusilvak,426,1,0.0,0.0
-2170.0,Alaska,Matanuska-Susitna,4026,6,256.0,0.0
+2170.0,Alaska,Matanuska-Susitna,4036,6,243.0,0.0
 2180.0,Alaska,Nome,238,0,5.0,0.0
 2185.0,Alaska,North Slope,505,0,30.0,0.0
 2188.0,Alaska,Northwest Arctic,361,0,0.0,0.0
 80002.0,Alaska,Out of AK,0,0,0.0,0.0
 2195.0,Alaska,Petersburg,25,1,0.0,0.0
-2198.0,Alaska,Prince of Wales-Hyder,55,1,0.0,0.0
+2198.0,Alaska,Prince of Wales-Hyder,54,1,2.0,0.0
 2220.0,Alaska,Sitka,207,0,7.0,0.0
 2230.0,Alaska,Skagway,11,0,0.0,0.0
-2240.0,Alaska,Southeast Fairbanks,297,2,9.0,0.0
-90002.0,Alaska,Unassigned,23,0,3.0,0.0
-2261.0,Alaska,Valdez-Cordova,260,2,1.0,0.0
+2240.0,Alaska,Southeast Fairbanks,298,2,10.0,0.0
+90002.0,Alaska,Unassigned,164,0,3.0,0.0
+2261.0,Alaska,Valdez-Cordova,260,2,2.0,0.0
 2275.0,Alaska,Wrangell,21,0,1.0,0.0
 2282.0,Alaska,Yakutat,49,0,0.0,0.0
 2290.0,Alaska,Yukon-Koyukuk,173,3,0.0,0.0
@@ -1816,7 +1816,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 32005.0,Nevada,Douglas,1052,4,37.0,1.0
 32007.0,Nevada,Elko,2899,17,48.0,0.0
 32009.0,Nevada,Esmeralda,10,0,0.0,0.0
-32011.0,Nevada,Eureka,22,353,1.0,353.0
+32011.0,Nevada,Eureka,22,0,1.0,0.0
 32013.0,Nevada,Humboldt,326,6,0.0,0.0
 32015.0,Nevada,Lander,236,4,8.0,0.0
 32017.0,Nevada,Lincoln,206,1,8.0,0.0
