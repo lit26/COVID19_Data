@@ -18,7 +18,8 @@ def readFile(base_path, file, choice, col_name):
     if choice == 'Deaths':
         df_file = df_file.drop(["Population"], axis=1)
     df_county = df_file.iloc[:, 0:5]
-    df_diff = df_file.iloc[:, 5:len(df_file.columns)].diff(axis=1)
+    # start date 3/7/20
+    df_diff = df_file.iloc[:, 50:len(df_file.columns)].diff(axis=1)
     df_diff = df_county.join(df_diff)
     df_file = df_file.melt(id_vars=col_name,
                            var_name="Date",
