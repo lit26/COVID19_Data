@@ -18,8 +18,7 @@ def readFile(base_path, file, choice, col_name):
     if choice == 'Deaths':
         df_file = df_file.drop(["Population"], axis=1)
     df_county = df_file.iloc[:, 0:5]
-    # start date 3/8/20
-    df_diff = df_file.iloc[:, 51:len(df_file.columns)].diff(axis=1)
+    df_diff = df_file.iloc[:, 5:len(df_file.columns)].diff(axis=1)
     df_diff = df_county.join(df_diff)
     df_file = df_file.melt(id_vars=col_name,
                            var_name="Date",
@@ -104,7 +103,9 @@ def loadData():
     print('[INFO] Processing timeseries data...')
     getTimeSeriesData(df, df_state)
     print('[INFO] Printing csv data...')
-    df.to_csv('data/covid_19_county.csv', index=False)
+    split_date = '2020-11-01'
+    df[df['Date'] < split_date].to_csv('data/covid_19_county1.csv', index=False)
+    df[df['Date'] >= split_date].to_csv('data/covid_19_county2.csv', index=False)
     df_state.to_csv('data/covid_19_state.csv', index=False)
     print('[INFO] Printing json data...')
     jsonOutput(df_state, 'state')
