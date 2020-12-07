@@ -11,7 +11,7 @@ def get_data():
     source = requests.get(url, headers=headers)
 
     # get html
-    soup = BeautifulSoup(source.text, 'lxml')
+    soup = BeautifulSoup(source.text, "html.parser")
 
     resources = soup.find(id='data-and-resources').findChildren()[1]
     link_row = resources.findAll('span', class_="links")
