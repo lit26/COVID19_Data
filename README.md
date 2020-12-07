@@ -32,6 +32,7 @@ FIPS,Province_State,Admin2,Date,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 ...
 ```
 data/county1.csv: cases before 2020-11-01
+
 data/county2.csv: cases after 2020-11-01
 
 ## JSON file
