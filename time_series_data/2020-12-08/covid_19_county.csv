@@ -1218,24 +1218,24 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 22123.0,Louisiana,West Carroll,747,23,8.0,1.0
 22125.0,Louisiana,West Feliciana,816,25,4.0,0.0
 22127.0,Louisiana,Winn,1069,26,16.0,0.0
-23001.0,Maine,Androscoggin,1756,30,0.0,0.0
-23003.0,Maine,Aroostook,195,1,0.0,0.0
-23005.0,Maine,Cumberland,4267,71,0.0,0.0
-23007.0,Maine,Franklin,268,4,0.0,0.0
-23009.0,Maine,Hancock,318,3,0.0,0.0
-23011.0,Maine,Kennebec,1052,18,0.0,0.0
-23013.0,Maine,Knox,227,4,0.0,0.0
-23015.0,Maine,Lincoln,183,2,0.0,0.0
+23001.0,Maine,Androscoggin,1774,34,18.0,4.0
+23003.0,Maine,Aroostook,210,2,15.0,1.0
+23005.0,Maine,Cumberland,4357,74,90.0,3.0
+23007.0,Maine,Franklin,271,4,3.0,0.0
+23009.0,Maine,Hancock,323,4,5.0,1.0
+23011.0,Maine,Kennebec,1065,19,13.0,1.0
+23013.0,Maine,Knox,230,4,3.0,0.0
+23015.0,Maine,Lincoln,185,2,2.0,0.0
 80023.0,Maine,Out of ME,0,0,0.0,0.0
-23017.0,Maine,Oxford,489,5,0.0,0.0
-23019.0,Maine,Penobscot,1107,14,0.0,0.0
-23021.0,Maine,Piscataquis,60,1,0.0,0.0
-23023.0,Maine,Sagadahoc,188,0,0.0,0.0
-23025.0,Maine,Somerset,503,20,0.0,0.0
-90023.0,Maine,Unassigned,1,0,0.0,0.0
-23027.0,Maine,Waldo,262,17,0.0,0.0
-23029.0,Maine,Washington,197,2,0.0,0.0
-23031.0,Maine,York,2702,35,0.0,0.0
+23017.0,Maine,Oxford,506,5,17.0,0.0
+23019.0,Maine,Penobscot,1129,14,22.0,0.0
+23021.0,Maine,Piscataquis,61,1,1.0,0.0
+23023.0,Maine,Sagadahoc,190,0,2.0,0.0
+23025.0,Maine,Somerset,511,20,8.0,0.0
+90023.0,Maine,Unassigned,15,0,14.0,0.0
+23027.0,Maine,Waldo,265,17,3.0,0.0
+23029.0,Maine,Washington,198,2,1.0,0.0
+23031.0,Maine,York,2759,37,57.0,2.0
 24001.0,Maryland,Allegany,4204,97,103.0,8.0
 24003.0,Maryland,Anne Arundel,18646,307,217.0,3.0
 24005.0,Maryland,Baltimore,32014,781,306.0,8.0
@@ -3314,7 +3314,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 55137.0,Wisconsin,Waushara,1906,12,10.0,0.0
 55139.0,Wisconsin,Winnebago,15347,136,92.0,5.0
 55141.0,Wisconsin,Wood,5004,39,39.0,0.0
-56001.0,Wyoming,Albany,3120,9,0.0,0.0
+56001.0,Wyoming,Albany,3256,9,18.0,0.0
 56003.0,Wyoming,Big Horn,578,15,9.0,0.0
 56005.0,Wyoming,Campbell,3338,17,18.0,0.0
 56007.0,Wyoming,Carbon,796,10,5.0,0.0
