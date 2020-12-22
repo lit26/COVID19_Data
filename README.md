@@ -1,6 +1,6 @@
 # COVID19_Data
 
-Auto fetching data from [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) with github schedule action. Processing with python script to get both csv data and json data.
+Auto fetching data from [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) and [HealthData.gov](https://healthdata.gov/) with github schedule action. Processing with python script to get both csv data and json data.
 
 ```python
 import pandas as pd
@@ -34,6 +34,14 @@ FIPS,Province_State,Admin2,Date,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 data/county1.csv: cases before 2020-11-01
 
 data/county2.csv: cases after 2020-11-01
+
+hospital.csv
+```
+state,collection_date,Inpatient Beds Occupied Estimated,Percentage of Inpatient Beds Occupied Estimated,Total Inpatient Beds,Inpatient Beds Occupied by COVID-19 Patients Estimated,Percentage of Inpatient Beds Occupied by COVID-19 Patients Estimated,Staffed Adult ICU Beds Occupied Estimated,Percentage of Staffed Adult ICU Beds Occupied Estimated,Total Staffed Adult ICU Beds
+CW,2020-12-18,"530,571",74.56,"711,575","117,550",16.58,"67,513",78.05,"86,498"
+AZ,2020-12-18,"11,119",78.5,"14,164","3,942",27.87,"1,582",72.67,"2,177"
+...
+```
 
 ## JSON file
 state.json
@@ -106,4 +114,27 @@ county.json
         }, ...
 }
 ...
+```
+hospital.json
+```
+{
+    "Meta": {
+        "Version": "v1", 
+        "Columns": [
+            "collection_date", 
+            "Inpatient Beds Occupied Estimated", 
+            "Percentage of Inpatient Beds Occupied Estimated", 
+            "Total Inpatient Beds", 
+            "Inpatient Beds Occupied by COVID-19 Patients Estimated", 
+            "Percentage of Inpatient Beds Occupied by COVID-19 Patients Estimated", 
+            "Staffed Adult ICU Beds Occupied Estimated", 
+            "Percentage of Staffed Adult ICU Beds Occupied Estimated", 
+            "Total Staffed Adult ICU Beds"
+        ]
+    }, 
+    "Data": {
+        "DC": ...
+        ...
+    }
+}
 ```
