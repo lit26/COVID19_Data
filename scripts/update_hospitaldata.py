@@ -3,6 +3,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import requests
 import json
+import glob
 
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) \
             AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36'}
@@ -30,13 +31,21 @@ def get_data():
     return df
 
 df = get_data()
-df.to_csv('data/hospital_data.csv', index=False)
+# df.to_csv('data/hospital_data.csv', index=False)
 base_path = 'time_series_data/'
 for i in sorted(set(df['collection_date'].to_list())):
     dir_path = base_path + i
     if not os.path.isdir(dir_path):
         os.mkdir(dir_path)
     df[df['collection_date'] == i].to_csv(dir_path + '/hospital_data.csv', index=False)
+
+files = glob.glob('time_series_data/*/hospital_data.csv')
+files.sort()
+
+df = pd.read_csv(files[0])
+for file in files:
+    df_temp = pd.read_csv(file)
+    df = df.append(df_temp)
 
 state_list = list(set(list(df['state'].values)))
 meta = {
