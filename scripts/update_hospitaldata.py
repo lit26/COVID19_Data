@@ -31,7 +31,6 @@ def get_data():
     return df
 
 df = get_data()
-# df.to_csv('data/hospital_data.csv', index=False)
 base_path = 'time_series_data/'
 for i in sorted(set(df['collection_date'].to_list())):
     dir_path = base_path + i
@@ -46,6 +45,7 @@ df = pd.read_csv(files[0])
 for file in files:
     df_temp = pd.read_csv(file)
     df = df.append(df_temp)
+df.to_csv('data/hospital_data.csv', index=False)
 
 state_list = list(set(list(df['state'].values)))
 meta = {
