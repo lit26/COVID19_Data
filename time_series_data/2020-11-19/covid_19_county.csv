@@ -1901,7 +1901,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 35061.0,New Mexico,Valencia,1986,18,131.0,1.0
 36001.0,New York,Albany,4822,147,92.0,0.0
 36003.0,New York,Allegany,709,41,17.0,2.0
-36005.0,New York,Bronx,59856,5022,308.0,-1.0
+36005.0,New York,Bronx,62256,5022,390.0,-1.0
 36007.0,New York,Broome,4620,126,75.0,0.0
 36009.0,New York,Cattaraugus,780,22,41.0,0.0
 36011.0,New York,Cayuga,676,6,12.0,0.0
@@ -1922,14 +1922,14 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 36041.0,New York,Hamilton,35,1,4.0,0.0
 36043.0,New York,Herkimer,537,11,13.0,0.0
 36045.0,New York,Jefferson,354,1,9.0,0.0
-36047.0,New York,Kings,83083,7465,540.0,8.0
+36047.0,New York,Kings,85050,7465,644.0,8.0
 36049.0,New York,Lewis,275,7,10.0,0.0
 36051.0,New York,Livingston,542,8,15.0,0.0
 36053.0,New York,Madison,766,17,13.0,0.0
 36055.0,New York,Monroe,11444,309,296.0,0.0
 36057.0,New York,Montgomery,362,11,13.0,0.0
 36059.0,New York,Nassau,55486,2238,374.0,2.0
-36061.0,New York,New York,41263,3217,355.0,3.0
+36061.0,New York,New York,40398,3217,435.0,3.0
 36063.0,New York,Niagara,2934,103,65.0,0.0
 36065.0,New York,Oneida,3846,142,94.0,0.0
 36067.0,New York,Onondaga,8494,222,193.0,0.0
@@ -1940,9 +1940,9 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 36077.0,New York,Otsego,492,8,12.0,0.0
 80036.0,New York,Out of NY,0,115,0.0,0.0
 36079.0,New York,Putnam,2306,64,37.0,0.0
-36081.0,New York,Queens,84269,7329,460.0,5.0
+36081.0,New York,Queens,86477,7329,637.0,5.0
 36083.0,New York,Rensselaer,1411,50,22.0,0.0
-36085.0,New York,Richmond,20398,1114,184.0,2.0
+36085.0,New York,Richmond,20941,1114,255.0,2.0
 36087.0,New York,Rockland,20263,690,87.0,0.0
 36091.0,New York,Saratoga,1804,19,35.0,0.0
 36093.0,New York,Schenectady,1983,55,33.0,1.0
@@ -2697,262 +2697,262 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 47185.0,Tennessee,White,1602,17,3.0,0.0
 47187.0,Tennessee,Williamson,10055,70,62.0,1.0
 47189.0,Tennessee,Wilson,6581,71,105.0,1.0
-48001.0,Texas,Anderson,3101,46,6.0,1.0
+48001.0,Texas,Anderson,3607,46,28.0,1.0
 48003.0,Texas,Andrews,940,13,14.0,0.0
-48005.0,Texas,Angelina,2497,97,51.0,0.0
-48007.0,Texas,Aransas,376,18,0.0,0.0
-48009.0,Texas,Archer,220,2,11.0,0.0
-48011.0,Texas,Armstrong,38,1,1.0,0.0
-48013.0,Texas,Atascosa,1416,38,1.0,0.0
-48015.0,Texas,Austin,552,11,6.0,0.0
-48017.0,Texas,Bailey,435,6,13.0,0.0
-48019.0,Texas,Bandera,215,11,0.0,0.0
-48021.0,Texas,Bastrop,2186,34,20.0,0.0
-48023.0,Texas,Baylor,52,4,1.0,0.0
-48025.0,Texas,Bee,1933,40,0.0,0.0
+48005.0,Texas,Angelina,3350,97,73.0,0.0
+48007.0,Texas,Aransas,460,18,0.0,0.0
+48009.0,Texas,Archer,252,2,11.0,0.0
+48011.0,Texas,Armstrong,42,1,1.0,0.0
+48013.0,Texas,Atascosa,1758,38,5.0,0.0
+48015.0,Texas,Austin,603,11,6.0,0.0
+48017.0,Texas,Bailey,542,6,26.0,0.0
+48019.0,Texas,Bandera,274,11,2.0,0.0
+48021.0,Texas,Bastrop,2602,34,25.0,0.0
+48023.0,Texas,Baylor,121,4,2.0,0.0
+48025.0,Texas,Bee,2049,40,0.0,0.0
 48027.0,Texas,Bell,7820,111,87.0,0.0
 48029.0,Texas,Bexar,71377,1465,483.0,7.0
-48031.0,Texas,Blanco,174,6,3.0,0.0
-48033.0,Texas,Borden,4,0,0.0,0.0
-48035.0,Texas,Bosque,500,15,5.0,0.0
-48037.0,Texas,Bowie,2405,93,10.0,1.0
+48031.0,Texas,Blanco,200,6,9.0,0.0
+48033.0,Texas,Borden,7,0,0.0,0.0
+48035.0,Texas,Bosque,551,15,5.0,0.0
+48037.0,Texas,Bowie,3031,93,19.0,1.0
 48039.0,Texas,Brazoria,13516,193,61.0,1.0
 48041.0,Texas,Brazos,10279,99,75.0,3.0
-48043.0,Texas,Brewster,419,5,0.0,0.0
-48045.0,Texas,Briscoe,37,1,0.0,0.0
-48047.0,Texas,Brooks,384,25,4.0,0.0
-48049.0,Texas,Brown,867,30,25.0,0.0
-48051.0,Texas,Burleson,603,7,11.0,0.0
-48053.0,Texas,Burnet,1297,16,22.0,0.0
-48055.0,Texas,Caldwell,1802,39,6.0,0.0
-48057.0,Texas,Calhoun,964,9,2.0,0.0
-48059.0,Texas,Callahan,189,8,7.0,0.0
+48043.0,Texas,Brewster,443,5,2.0,0.0
+48045.0,Texas,Briscoe,56,1,0.0,0.0
+48047.0,Texas,Brooks,441,25,4.0,0.0
+48049.0,Texas,Brown,1494,30,68.0,0.0
+48051.0,Texas,Burleson,670,7,12.0,0.0
+48053.0,Texas,Burnet,1348,16,23.0,0.0
+48055.0,Texas,Caldwell,1873,39,7.0,0.0
+48057.0,Texas,Calhoun,991,9,4.0,0.0
+48059.0,Texas,Callahan,312,8,8.0,0.0
 48061.0,Texas,Cameron,25308,1106,74.0,3.0
-48063.0,Texas,Camp,436,15,1.0,0.0
-48065.0,Texas,Carson,85,2,3.0,0.0
-48067.0,Texas,Cass,714,33,4.0,0.0
-48069.0,Texas,Castro,414,7,1.0,0.0
+48063.0,Texas,Camp,538,15,8.0,0.0
+48065.0,Texas,Carson,108,2,3.0,0.0
+48067.0,Texas,Cass,1003,33,9.0,0.0
+48069.0,Texas,Castro,526,7,17.0,0.0
 48071.0,Texas,Chambers,1815,10,30.0,0.0
-48073.0,Texas,Cherokee,1690,47,0.0,0.0
-48075.0,Texas,Childress,808,0,18.0,0.0
-48077.0,Texas,Clay,227,6,19.0,0.0
-48079.0,Texas,Cochran,149,4,2.0,0.0
-48081.0,Texas,Coke,157,9,3.0,0.0
-48083.0,Texas,Coleman,172,5,0.0,0.0
-48085.0,Texas,Collin,22337,229,354.0,4.0
-48087.0,Texas,Collingsworth,34,0,5.0,0.0
-48089.0,Texas,Colorado,552,4,8.0,0.0
-48091.0,Texas,Comal,3056,112,0.0,2.0
-48093.0,Texas,Comanche,415,6,2.0,0.0
-48095.0,Texas,Concho,179,2,2.0,0.0
-48097.0,Texas,Cooke,701,13,34.0,0.0
-48099.0,Texas,Coryell,2248,16,40.0,2.0
-48101.0,Texas,Cottle,49,4,1.0,0.0
-48103.0,Texas,Crane,156,7,2.0,1.0
-48105.0,Texas,Crockett,210,7,0.0,0.0
-48107.0,Texas,Crosby,163,14,0.0,1.0
-48109.0,Texas,Culberson,156,3,5.0,0.0
-48111.0,Texas,Dallam,427,14,3.0,1.0
-48113.0,Texas,Dallas,124167,1429,1860.0,19.0
+48073.0,Texas,Cherokee,2355,47,9.0,0.0
+48075.0,Texas,Childress,835,0,18.0,0.0
+48077.0,Texas,Clay,245,6,21.0,0.0
+48079.0,Texas,Cochran,157,4,1.0,0.0
+48081.0,Texas,Coke,237,9,4.0,0.0
+48083.0,Texas,Coleman,230,5,0.0,0.0
+48085.0,Texas,Collin,23247,229,373.0,4.0
+48087.0,Texas,Collingsworth,39,0,5.0,0.0
+48089.0,Texas,Colorado,619,4,10.0,0.0
+48091.0,Texas,Comal,4240,112,0.0,2.0
+48093.0,Texas,Comanche,444,6,3.0,0.0
+48095.0,Texas,Concho,219,2,5.0,0.0
+48097.0,Texas,Cooke,832,13,37.0,0.0
+48099.0,Texas,Coryell,2296,16,44.0,2.0
+48101.0,Texas,Cottle,85,4,1.0,0.0
+48103.0,Texas,Crane,359,7,8.0,1.0
+48105.0,Texas,Crockett,338,7,11.0,0.0
+48107.0,Texas,Crosby,240,14,1.0,1.0
+48109.0,Texas,Culberson,169,3,6.0,0.0
+48111.0,Texas,Dallam,445,14,4.0,1.0
+48113.0,Texas,Dallas,124167,1560,1860.0,8.0
 48115.0,Texas,Dawson,1128,30,21.0,0.0
 48123.0,Texas,DeWitt,1167,44,0.0,0.0
-48117.0,Texas,Deaf Smith,1217,36,3.0,0.0
-48119.0,Texas,Delta,45,0,0.0,0.0
+48117.0,Texas,Deaf Smith,1520,36,7.0,0.0
+48119.0,Texas,Delta,75,0,0.0,0.0
 48121.0,Texas,Denton,20752,199,336.0,2.0
-48125.0,Texas,Dickens,64,2,0.0,0.0
-48127.0,Texas,Dimmit,335,8,3.0,0.0
-48129.0,Texas,Donley,107,1,6.0,0.0
-48131.0,Texas,Duval,546,22,2.0,0.0
-48133.0,Texas,Eastland,331,9,7.0,0.0
+48125.0,Texas,Dickens,85,2,0.0,0.0
+48127.0,Texas,Dimmit,358,8,3.0,0.0
+48129.0,Texas,Donley,163,1,12.0,0.0
+48131.0,Texas,Duval,577,22,2.0,0.0
+48133.0,Texas,Eastland,461,9,11.0,0.0
 48135.0,Texas,Ector,8206,130,0.0,0.0
-48137.0,Texas,Edwards,81,2,0.0,0.0
+48137.0,Texas,Edwards,88,2,0.0,0.0
 48141.0,Texas,El Paso,77977,876,791.0,37.0
-48139.0,Texas,Ellis,6008,103,177.0,0.0
-48143.0,Texas,Erath,1239,18,16.0,0.0
-48145.0,Texas,Falls,745,13,18.0,0.0
-48147.0,Texas,Fannin,924,26,13.0,0.0
+48139.0,Texas,Ellis,6748,103,190.0,0.0
+48143.0,Texas,Erath,1742,18,19.0,0.0
+48145.0,Texas,Falls,778,13,18.0,0.0
+48147.0,Texas,Fannin,1042,26,15.0,0.0
 48149.0,Texas,Fayette,741,23,8.0,0.0
 48151.0,Texas,Fisher,143,4,0.0,0.0
-48153.0,Texas,Floyd,185,11,1.0,1.0
-48155.0,Texas,Foard,25,1,0.0,0.0
-48157.0,Texas,Fort Bend,19095,324,123.0,2.0
-48159.0,Texas,Franklin,244,10,2.0,0.0
-48161.0,Texas,Freestone,491,9,2.0,0.0
-48163.0,Texas,Frio,1082,9,4.0,0.0
+48153.0,Texas,Floyd,344,11,4.0,1.0
+48155.0,Texas,Foard,46,1,0.0,0.0
+48157.0,Texas,Fort Bend,20142,324,99.0,2.0
+48159.0,Texas,Franklin,319,10,2.0,0.0
+48161.0,Texas,Freestone,637,9,4.0,0.0
+48163.0,Texas,Frio,1187,9,33.0,0.0
 48165.0,Texas,Gaines,844,14,26.0,0.0
-48167.0,Texas,Galveston,13827,177,67.0,1.0
-48169.0,Texas,Garza,159,13,3.0,0.0
-48171.0,Texas,Gillespie,436,10,3.0,0.0
-48173.0,Texas,Glasscock,29,0,1.0,0.0
-48175.0,Texas,Goliad,172,6,0.0,0.0
-48177.0,Texas,Gonzales,1203,22,0.0,1.0
-48179.0,Texas,Gray,1163,16,24.0,2.0
+48167.0,Texas,Galveston,14466,177,98.0,1.0
+48169.0,Texas,Garza,199,13,3.0,0.0
+48171.0,Texas,Gillespie,560,10,3.0,0.0
+48173.0,Texas,Glasscock,67,0,2.0,0.0
+48175.0,Texas,Goliad,225,6,0.0,0.0
+48177.0,Texas,Gonzales,1244,22,0.0,1.0
+48179.0,Texas,Gray,1214,16,25.0,2.0
 48181.0,Texas,Grayson,3727,98,104.0,5.0
-48183.0,Texas,Gregg,3059,101,47.0,0.0
-48185.0,Texas,Grimes,1306,38,12.0,1.0
-48187.0,Texas,Guadalupe,4132,83,-5.0,0.0
+48183.0,Texas,Gregg,4546,101,89.0,0.0
+48185.0,Texas,Grimes,1370,38,14.0,1.0
+48187.0,Texas,Guadalupe,4685,83,11.0,0.0
 48189.0,Texas,Hale,3652,84,147.0,2.0
-48191.0,Texas,Hall,73,3,10.0,0.0
-48193.0,Texas,Hamilton,268,7,4.0,0.0
-48195.0,Texas,Hansford,225,9,4.0,1.0
-48197.0,Texas,Hardeman,76,4,1.0,0.0
-48199.0,Texas,Hardin,1549,41,19.0,0.0
+48191.0,Texas,Hall,88,3,10.0,0.0
+48193.0,Texas,Hamilton,286,7,4.0,0.0
+48195.0,Texas,Hansford,328,9,4.0,1.0
+48197.0,Texas,Hardeman,116,4,1.0,0.0
+48199.0,Texas,Hardin,2209,41,49.0,0.0
 48201.0,Texas,Harris,178811,2943,1345.0,15.0
-48203.0,Texas,Harrison,1212,44,5.0,3.0
-48205.0,Texas,Hartley,200,0,1.0,0.0
-48207.0,Texas,Haskell,93,3,0.0,0.0
-48209.0,Texas,Hays,6899,95,66.0,2.0
-48211.0,Texas,Hemphill,233,1,14.0,0.0
-48213.0,Texas,Henderson,1650,47,22.0,1.0
+48203.0,Texas,Harrison,1679,44,8.0,3.0
+48205.0,Texas,Hartley,209,0,1.0,0.0
+48207.0,Texas,Haskell,138,3,1.0,0.0
+48209.0,Texas,Hays,7732,95,75.0,2.0
+48211.0,Texas,Hemphill,238,1,11.0,0.0
+48213.0,Texas,Henderson,2251,47,39.0,1.0
 48215.0,Texas,Hidalgo,39366,2022,679.0,7.0
-48217.0,Texas,Hill,1046,17,36.0,1.0
-48219.0,Texas,Hockley,1199,41,38.0,2.0
-48221.0,Texas,Hood,1436,42,41.0,0.0
-48223.0,Texas,Hopkins,786,50,7.0,1.0
-48225.0,Texas,Houston,459,15,6.0,0.0
-48227.0,Texas,Howard,1573,32,20.0,2.0
-48229.0,Texas,Hudspeth,159,3,4.0,0.0
+48217.0,Texas,Hill,1201,17,53.0,1.0
+48219.0,Texas,Hockley,1316,41,21.0,2.0
+48221.0,Texas,Hood,1774,42,58.0,0.0
+48223.0,Texas,Hopkins,1492,50,15.0,1.0
+48225.0,Texas,Houston,745,15,17.0,0.0
+48227.0,Texas,Howard,2663,32,53.0,2.0
+48229.0,Texas,Hudspeth,175,3,4.0,0.0
 48231.0,Texas,Hunt,2515,55,0.0,1.0
-48233.0,Texas,Hutchinson,600,15,16.0,2.0
-48235.0,Texas,Irion,16,0,0.0,0.0
-48237.0,Texas,Jack,211,3,5.0,0.0
-48239.0,Texas,Jackson,760,16,3.0,0.0
-48241.0,Texas,Jasper,536,34,1.0,0.0
-48243.0,Texas,Jeff Davis,30,0,0.0,0.0
+48233.0,Texas,Hutchinson,712,15,3.0,2.0
+48235.0,Texas,Irion,36,0,2.0,0.0
+48237.0,Texas,Jack,236,3,5.0,0.0
+48239.0,Texas,Jackson,783,16,3.0,0.0
+48241.0,Texas,Jasper,932,34,11.0,0.0
+48243.0,Texas,Jeff Davis,35,0,0.0,0.0
 48245.0,Texas,Jefferson,9659,172,103.0,0.0
-48247.0,Texas,Jim Hogg,195,7,1.0,0.0
-48249.0,Texas,Jim Wells,1878,54,9.0,1.0
-48251.0,Texas,Johnson,4716,86,132.0,5.0
-48253.0,Texas,Jones,1588,7,12.0,1.0
-48255.0,Texas,Karnes,986,18,-1.0,0.0
-48257.0,Texas,Kaufman,4244,72,81.0,0.0
-48259.0,Texas,Kendall,474,12,1.0,1.0
-48261.0,Texas,Kenedy,11,2,0.0,0.0
-48263.0,Texas,Kent,21,1,0.0,0.0
-48265.0,Texas,Kerr,840,20,10.0,1.0
-48267.0,Texas,Kimble,74,2,10.0,0.0
+48247.0,Texas,Jim Hogg,202,7,1.0,0.0
+48249.0,Texas,Jim Wells,1945,54,9.0,1.0
+48251.0,Texas,Johnson,5208,86,143.0,5.0
+48253.0,Texas,Jones,1757,7,15.0,1.0
+48255.0,Texas,Karnes,1017,18,-1.0,0.0
+48257.0,Texas,Kaufman,4793,72,99.0,0.0
+48259.0,Texas,Kendall,786,12,6.0,1.0
+48261.0,Texas,Kenedy,15,2,0.0,0.0
+48263.0,Texas,Kent,27,1,0.0,0.0
+48265.0,Texas,Kerr,1033,20,19.0,1.0
+48267.0,Texas,Kimble,88,2,11.0,0.0
 48269.0,Texas,King,1,0,0.0,0.0
-48271.0,Texas,Kinney,85,2,0.0,0.0
-48273.0,Texas,Kleberg,1124,54,0.0,0.0
-48275.0,Texas,Knox,116,9,0.0,0.0
-48283.0,Texas,La Salle,384,14,4.0,0.0
-48277.0,Texas,Lamar,2385,65,0.0,0.0
-48279.0,Texas,Lamb,893,35,44.0,0.0
-48281.0,Texas,Lampasas,355,10,9.0,0.0
-48285.0,Texas,Lavaca,1325,39,3.0,0.0
-48287.0,Texas,Lee,272,15,9.0,0.0
-48289.0,Texas,Leon,423,14,4.0,0.0
-48291.0,Texas,Liberty,2383,65,-1.0,2.0
-48293.0,Texas,Limestone,748,17,7.0,0.0
-48295.0,Texas,Lipscomb,121,1,0.0,0.0
-48297.0,Texas,Live Oak,412,10,1.0,0.0
-48299.0,Texas,Llano,257,4,6.0,0.0
-48301.0,Texas,Loving,1,0,0.0,0.0
+48271.0,Texas,Kinney,86,2,0.0,0.0
+48273.0,Texas,Kleberg,1178,54,0.0,0.0
+48275.0,Texas,Knox,128,9,0.0,0.0
+48283.0,Texas,La Salle,391,14,4.0,0.0
+48277.0,Texas,Lamar,2432,65,0.0,0.0
+48279.0,Texas,Lamb,1067,35,26.0,0.0
+48281.0,Texas,Lampasas,400,10,10.0,0.0
+48285.0,Texas,Lavaca,1413,39,5.0,0.0
+48287.0,Texas,Lee,512,15,31.0,0.0
+48289.0,Texas,Leon,506,14,12.0,0.0
+48291.0,Texas,Liberty,3015,65,5.0,2.0
+48293.0,Texas,Limestone,884,17,7.0,0.0
+48295.0,Texas,Lipscomb,119,1,-8.0,0.0
+48297.0,Texas,Live Oak,490,10,1.0,0.0
+48299.0,Texas,Llano,287,4,6.0,0.0
+48301.0,Texas,Loving,2,0,0.0,0.0
 48303.0,Texas,Lubbock,27105,284,412.0,7.0
 48305.0,Texas,Lynn,298,9,6.0,0.0
-48313.0,Texas,Madison,832,10,7.0,1.0
-48315.0,Texas,Marion,182,15,0.0,0.0
-48317.0,Texas,Martin,162,7,8.0,0.0
-48319.0,Texas,Mason,133,2,3.0,0.0
-48321.0,Texas,Matagorda,1180,58,4.0,1.0
+48313.0,Texas,Madison,909,10,12.0,1.0
+48315.0,Texas,Marion,204,15,0.0,0.0
+48317.0,Texas,Martin,266,7,10.0,0.0
+48319.0,Texas,Mason,149,2,4.0,0.0
+48321.0,Texas,Matagorda,1240,58,6.0,1.0
 48323.0,Texas,Maverick,4690,169,28.0,0.0
-48307.0,Texas,McCulloch,269,6,6.0,0.0
+48307.0,Texas,McCulloch,315,6,7.0,0.0
 48309.0,Texas,McLennan,12761,170,189.0,2.0
-48311.0,Texas,McMullen,26,1,0.0,0.0
-48325.0,Texas,Medina,1358,49,4.0,0.0
-48327.0,Texas,Menard,100,3,2.0,0.0
+48311.0,Texas,McMullen,28,1,0.0,0.0
+48325.0,Texas,Medina,1770,49,7.0,0.0
+48327.0,Texas,Menard,112,3,2.0,0.0
 48329.0,Texas,Midland,6576,119,0.0,0.0
-48331.0,Texas,Milam,605,9,3.0,0.0
-48333.0,Texas,Mills,116,4,1.0,0.0
+48331.0,Texas,Milam,790,9,9.0,0.0
+48333.0,Texas,Mills,124,4,1.0,0.0
 48335.0,Texas,Mitchell,272,5,1.0,1.0
-48337.0,Texas,Montague,483,14,36.0,0.0
+48337.0,Texas,Montague,545,14,39.0,0.0
 48339.0,Texas,Montgomery,15758,201,330.0,2.0
-48341.0,Texas,Moore,1534,27,7.0,1.0
-48343.0,Texas,Morris,260,8,3.0,0.0
-48345.0,Texas,Motley,19,0,0.0,0.0
-48347.0,Texas,Nacogdoches,1915,77,8.0,1.0
-48349.0,Texas,Navarro,1669,35,30.0,0.0
-48351.0,Texas,Newton,193,16,1.0,0.0
+48341.0,Texas,Moore,1700,27,1.0,1.0
+48343.0,Texas,Morris,349,8,7.0,0.0
+48345.0,Texas,Motley,23,0,3.0,0.0
+48347.0,Texas,Nacogdoches,2259,77,11.0,1.0
+48349.0,Texas,Navarro,2379,35,43.0,0.0
+48351.0,Texas,Newton,297,16,2.0,0.0
 48353.0,Texas,Nolan,604,8,11.0,1.0
 48355.0,Texas,Nueces,22724,467,214.0,1.0
-48357.0,Texas,Ochiltree,555,6,19.0,0.0
-48359.0,Texas,Oldham,32,2,1.0,0.0
-48361.0,Texas,Orange,2439,51,12.0,0.0
+48357.0,Texas,Ochiltree,510,6,-61.0,0.0
+48359.0,Texas,Oldham,40,2,1.0,0.0
+48361.0,Texas,Orange,3364,51,75.0,0.0
 80048.0,Texas,Out of TX,0,0,0.0,0.0
-48363.0,Texas,Palo Pinto,879,27,29.0,0.0
-48365.0,Texas,Panola,521,34,2.0,0.0
-48367.0,Texas,Parker,3299,61,185.0,1.0
-48369.0,Texas,Parmer,657,22,4.0,0.0
-48371.0,Texas,Pecos,678,15,9.0,0.0
-48373.0,Texas,Polk,988,42,5.0,0.0
+48363.0,Texas,Palo Pinto,988,27,32.0,0.0
+48365.0,Texas,Panola,668,34,7.0,0.0
+48367.0,Texas,Parker,3997,61,203.0,1.0
+48369.0,Texas,Parmer,778,22,9.0,0.0
+48371.0,Texas,Pecos,772,15,10.0,0.0
+48373.0,Texas,Polk,1479,42,32.0,0.0
 48375.0,Texas,Potter,11286,148,234.0,5.0
-48377.0,Texas,Presidio,261,7,14.0,0.0
-48379.0,Texas,Rains,142,6,1.0,0.0
+48377.0,Texas,Presidio,290,7,15.0,0.0
+48379.0,Texas,Rains,286,6,4.0,0.0
 48381.0,Texas,Randall,8837,79,176.0,6.0
-48383.0,Texas,Reagan,155,6,5.0,0.0
-48385.0,Texas,Real,130,8,1.0,0.0
-48387.0,Texas,Red River,215,18,2.0,0.0
-48389.0,Texas,Reeves,435,11,19.0,0.0
-48391.0,Texas,Refugio,332,16,0.0,0.0
-48393.0,Texas,Roberts,25,0,2.0,0.0
-48395.0,Texas,Robertson,463,6,4.0,0.0
-48397.0,Texas,Rockwall,2487,35,23.0,0.0
-48399.0,Texas,Runnels,331,11,5.0,0.0
-48401.0,Texas,Rusk,1144,29,-2.0,0.0
-48403.0,Texas,Sabine,120,10,0.0,0.0
-48405.0,Texas,San Augustine,254,16,11.0,0.0
-48407.0,Texas,San Jacinto,250,14,0.0,0.0
+48383.0,Texas,Reagan,248,6,8.0,0.0
+48385.0,Texas,Real,133,8,2.0,0.0
+48387.0,Texas,Red River,266,18,2.0,0.0
+48389.0,Texas,Reeves,882,11,36.0,0.0
+48391.0,Texas,Refugio,343,16,0.0,0.0
+48393.0,Texas,Roberts,25,0,1.0,0.0
+48395.0,Texas,Robertson,536,6,7.0,0.0
+48397.0,Texas,Rockwall,3051,35,33.0,0.0
+48399.0,Texas,Runnels,450,11,11.0,0.0
+48401.0,Texas,Rusk,1644,29,17.0,0.0
+48403.0,Texas,Sabine,222,10,0.0,0.0
+48405.0,Texas,San Augustine,338,16,19.0,0.0
+48407.0,Texas,San Jacinto,319,14,3.0,0.0
 48409.0,Texas,San Patricio,1747,84,0.0,0.0
-48411.0,Texas,San Saba,291,5,14.0,0.0
-48413.0,Texas,Schleicher,100,2,1.0,0.0
+48411.0,Texas,San Saba,312,5,14.0,0.0
+48413.0,Texas,Schleicher,160,2,6.0,0.0
 48415.0,Texas,Scurry,1449,19,23.0,0.0
-48417.0,Texas,Shackelford,46,0,0.0,0.0
-48419.0,Texas,Shelby,589,35,1.0,0.0
-48421.0,Texas,Sherman,87,1,1.0,0.0
-48423.0,Texas,Smith,5573,181,145.0,4.0
-48425.0,Texas,Somervell,224,5,2.0,0.0
-48427.0,Texas,Starr,3767,187,22.0,0.0
-48429.0,Texas,Stephens,224,7,7.0,0.0
-48431.0,Texas,Sterling,30,1,2.0,0.0
-48433.0,Texas,Stonewall,24,1,0.0,0.0
-48435.0,Texas,Sutton,173,3,7.0,0.0
-48437.0,Texas,Swisher,220,7,5.0,1.0
+48417.0,Texas,Shackelford,91,0,0.0,0.0
+48419.0,Texas,Shelby,817,35,10.0,0.0
+48421.0,Texas,Sherman,91,1,0.0,0.0
+48423.0,Texas,Smith,8777,181,238.0,4.0
+48425.0,Texas,Somervell,318,5,8.0,0.0
+48427.0,Texas,Starr,4075,187,22.0,0.0
+48429.0,Texas,Stephens,334,7,8.0,0.0
+48431.0,Texas,Sterling,41,1,3.0,0.0
+48433.0,Texas,Stonewall,35,1,0.0,0.0
+48435.0,Texas,Sutton,237,3,10.0,0.0
+48437.0,Texas,Swisher,342,7,22.0,1.0
 48439.0,Texas,Tarrant,87536,968,1777.0,10.0
-48441.0,Texas,Taylor,2990,98,21.0,5.0
-48443.0,Texas,Terrell,11,0,0.0,0.0
+48441.0,Texas,Taylor,6642,98,123.0,5.0
+48443.0,Texas,Terrell,16,0,0.0,0.0
 48445.0,Texas,Terry,851,18,13.0,3.0
-48447.0,Texas,Throckmorton,22,2,0.0,0.0
-48449.0,Texas,Titus,1731,40,8.0,2.0
+48447.0,Texas,Throckmorton,34,2,0.0,0.0
+48449.0,Texas,Titus,1989,40,34.0,2.0
 48451.0,Texas,Tom Green,7793,97,143.0,2.0
 48453.0,Texas,Travis,35616,473,290.0,4.0
-48455.0,Texas,Trinity,225,8,8.0,0.0
-48457.0,Texas,Tyler,291,4,0.0,0.0
+48455.0,Texas,Trinity,256,8,7.0,0.0
+48457.0,Texas,Tyler,477,4,4.0,0.0
 90048.0,Texas,Unassigned,0,0,0.0,0.0
-48459.0,Texas,Upshur,580,17,7.0,0.0
-48461.0,Texas,Upton,43,5,2.0,0.0
-48463.0,Texas,Uvalde,1014,38,6.0,0.0
+48459.0,Texas,Upshur,1021,17,8.0,0.0
+48461.0,Texas,Upton,128,5,5.0,0.0
+48463.0,Texas,Uvalde,1049,38,6.0,0.0
 48465.0,Texas,Val Verde,2932,137,0.0,1.0
-48467.0,Texas,Van Zandt,1007,32,29.0,0.0
-48469.0,Texas,Victoria,4733,99,35.0,0.0
-48471.0,Texas,Walker,4053,68,7.0,0.0
-48473.0,Texas,Waller,1063,18,4.0,1.0
-48475.0,Texas,Ward,306,4,6.0,0.0
-48477.0,Texas,Washington,886,53,17.0,1.0
+48467.0,Texas,Van Zandt,1490,32,52.0,0.0
+48469.0,Texas,Victoria,4742,99,35.0,0.0
+48471.0,Texas,Walker,4268,68,37.0,0.0
+48473.0,Texas,Waller,1152,18,5.0,1.0
+48475.0,Texas,Ward,479,4,13.0,0.0
+48477.0,Texas,Washington,999,53,23.0,1.0
 48479.0,Texas,Webb,18109,366,294.0,2.0
-48481.0,Texas,Wharton,1540,64,13.0,2.0
-48483.0,Texas,Wheeler,200,4,9.0,0.0
+48481.0,Texas,Wharton,1678,64,20.0,2.0
+48483.0,Texas,Wheeler,207,4,-1.0,0.0
 48485.0,Texas,Wichita,5853,97,146.0,4.0
-48487.0,Texas,Wilbarger,559,10,10.0,1.0
-48489.0,Texas,Willacy,1304,59,3.0,0.0
-48491.0,Texas,Williamson,11310,161,126.0,1.0
-48493.0,Texas,Wilson,1077,28,2.0,0.0
-48495.0,Texas,Winkler,248,5,6.0,0.0
-48497.0,Texas,Wise,1357,28,78.0,1.0
-48499.0,Texas,Wood,836,47,19.0,1.0
+48487.0,Texas,Wilbarger,637,10,11.0,1.0
+48489.0,Texas,Willacy,1336,59,3.0,0.0
+48491.0,Texas,Williamson,12340,161,115.0,1.0
+48493.0,Texas,Wilson,1213,28,4.0,0.0
+48495.0,Texas,Winkler,348,5,13.0,0.0
+48497.0,Texas,Wise,1587,28,86.0,1.0
+48499.0,Texas,Wood,1308,47,50.0,1.0
 48501.0,Texas,Yoakum,574,10,30.0,0.0
-48503.0,Texas,Young,774,18,15.0,2.0
-48505.0,Texas,Zapata,425,9,1.0,0.0
-48507.0,Texas,Zavala,548,21,2.0,0.0
+48503.0,Texas,Young,829,18,16.0,2.0
+48505.0,Texas,Zapata,464,9,1.0,0.0
+48507.0,Texas,Zavala,582,21,4.0,0.0
 ,Utah,Bear River,8365,25,283.0,0.0
 49001.0,Utah,Beaver,0,0,0.0,0.0
 49003.0,Utah,Box Elder,0,0,0.0,0.0
@@ -3142,47 +3142,47 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 51195.0,Virginia,Wise,1079,32,13.0,9.0
 51197.0,Virginia,Wythe,512,7,8.0,0.0
 51199.0,Virginia,York,783,9,8.0,0.0
-53001.0,Washington,Adams,1200,11,38.0,0.0
-53003.0,Washington,Asotin,526,12,6.0,2.0
-53005.0,Washington,Benton,6917,139,83.0,0.0
-53007.0,Washington,Chelan,2196,22,6.0,0.0
-53009.0,Washington,Clallam,358,3,17.0,0.0
-53011.0,Washington,Clark,6760,107,204.0,1.0
-53013.0,Washington,Columbia,26,2,0.0,0.0
-53015.0,Washington,Cowlitz,1114,8,10.0,0.0
-53017.0,Washington,Douglas,1289,11,1.0,0.0
-53019.0,Washington,Ferry,45,1,0.0,0.0
-53021.0,Washington,Franklin,5683,70,38.0,0.0
-53023.0,Washington,Garfield,52,0,0.0,0.0
-53025.0,Washington,Grant,3738,32,17.0,0.0
-53027.0,Washington,Grays Harbor,894,15,10.0,0.0
-53029.0,Washington,Island,520,12,6.0,0.0
-53031.0,Washington,Jefferson,128,0,5.0,0.0
-53033.0,Washington,King,36471,846,574.0,1.0
-53035.0,Washington,Kitsap,2076,28,28.0,0.0
-53037.0,Washington,Kittitas,816,23,0.0,1.0
-53039.0,Washington,Klickitat,237,3,0.0,0.0
-53041.0,Washington,Lewis,981,15,25.0,1.0
-53043.0,Washington,Lincoln,126,3,4.0,1.0
-53045.0,Washington,Mason,640,11,7.0,0.0
-53047.0,Washington,Okanogan,1167,11,6.0,0.0
+53001.0,Washington,Adams,1232,12,34.0,0.0
+53003.0,Washington,Asotin,534,9,8.0,0.0
+53005.0,Washington,Benton,7087,136,85.0,1.0
+53007.0,Washington,Chelan,3055,25,54.0,1.0
+53009.0,Washington,Clallam,365,3,5.0,0.0
+53011.0,Washington,Clark,7276,110,160.0,0.0
+53013.0,Washington,Columbia,27,2,1.0,0.0
+53015.0,Washington,Cowlitz,1138,8,19.0,1.0
+53017.0,Washington,Douglas,1730,11,28.0,0.0
+53019.0,Washington,Ferry,50,1,3.0,0.0
+53021.0,Washington,Franklin,5820,70,79.0,0.0
+53023.0,Washington,Garfield,59,1,0.0,0.0
+53025.0,Washington,Grant,3876,29,26.0,0.0
+53027.0,Washington,Grays Harbor,962,17,11.0,0.0
+53029.0,Washington,Island,547,11,15.0,0.0
+53031.0,Washington,Jefferson,135,0,8.0,0.0
+53033.0,Washington,King,37582,837,691.0,5.0
+53035.0,Washington,Kitsap,2085,27,23.0,0.0
+53037.0,Washington,Kittitas,897,23,42.0,0.0
+53039.0,Washington,Klickitat,256,2,3.0,0.0
+53041.0,Washington,Lewis,1081,16,19.0,0.0
+53043.0,Washington,Lincoln,132,3,4.0,0.0
+53045.0,Washington,Mason,654,11,9.0,0.0
+53047.0,Washington,Okanogan,1264,12,14.0,0.0
 80053.0,Washington,Out of WA,0,0,0.0,0.0
-53049.0,Washington,Pacific,191,3,1.0,0.0
-53051.0,Washington,Pend Oreille,189,1,2.0,0.0
-53053.0,Washington,Pierce,13912,261,247.0,2.0
-53055.0,Washington,San Juan,54,0,0.0,0.0
-53057.0,Washington,Skagit,1687,26,15.0,0.0
-53059.0,Washington,Skamania,87,1,1.0,0.0
-53061.0,Washington,Snohomish,12002,258,204.0,0.0
-53063.0,Washington,Spokane,13331,229,241.0,2.0
-53065.0,Washington,Stevens,466,6,12.0,0.0
-53067.0,Washington,Thurston,2444,44,43.0,-1.0
-90053.0,Washington,Unassigned,440,3,15.0,0.0
-53069.0,Washington,Wahkiakum,12,0,0.0,0.0
-53071.0,Washington,Walla Walla,1845,20,27.0,1.0
-53073.0,Washington,Whatcom,1983,52,43.0,0.0
-53075.0,Washington,Whitman,2098,23,12.0,0.0
-53077.0,Washington,Yakima,12710,291,39.0,0.0
+53049.0,Washington,Pacific,194,2,2.0,0.0
+53051.0,Washington,Pend Oreille,203,1,1.0,0.0
+53053.0,Washington,Pierce,14246,253,214.0,0.0
+53055.0,Washington,San Juan,54,0,1.0,0.0
+53057.0,Washington,Skagit,1795,25,22.0,0.0
+53059.0,Washington,Skamania,90,1,0.0,0.0
+53061.0,Washington,Snohomish,12410,256,177.0,2.0
+53063.0,Washington,Spokane,13699,225,198.0,0.0
+53065.0,Washington,Stevens,522,4,23.0,0.0
+53067.0,Washington,Thurston,2663,41,51.0,0.0
+90053.0,Washington,Unassigned,418,3,6.0,0.0
+53069.0,Washington,Wahkiakum,14,0,1.0,0.0
+53071.0,Washington,Walla Walla,1881,20,24.0,0.0
+53073.0,Washington,Whatcom,2008,44,18.0,0.0
+53075.0,Washington,Whitman,2153,20,51.0,0.0
+53077.0,Washington,Yakima,13211,286,44.0,2.0
 54001.0,West Virginia,Barbour,298,4,28.0,0.0
 54003.0,West Virginia,Berkeley,2440,21,61.0,1.0
 54005.0,West Virginia,Boone,553,12,15.0,0.0

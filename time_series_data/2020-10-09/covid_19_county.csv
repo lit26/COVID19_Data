@@ -1901,7 +1901,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 35061.0,New Mexico,Valencia,636,4,5.0,0.0
 36001.0,New York,Albany,3268,135,17.0,0.0
 36003.0,New York,Allegany,141,4,10.0,0.0
-36005.0,New York,Bronx,53691,4966,74.0,1.0
+36005.0,New York,Bronx,55359,4966,78.0,1.0
 36007.0,New York,Broome,2314,86,75.0,0.0
 36009.0,New York,Cattaraugus,343,13,16.0,0.0
 36011.0,New York,Cayuga,240,3,3.0,0.0
@@ -1922,14 +1922,14 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 36041.0,New York,Hamilton,15,1,0.0,0.0
 36043.0,New York,Herkimer,355,10,0.0,0.0
 36045.0,New York,Jefferson,180,1,3.0,0.0
-36047.0,New York,Kings,71199,7347,300.0,1.0
+36047.0,New York,Kings,72435,7347,281.0,1.0
 36049.0,New York,Lewis,54,5,0.0,0.0
 36051.0,New York,Livingston,219,8,3.0,0.0
 36053.0,New York,Madison,509,17,4.0,0.0
 36055.0,New York,Monroe,6349,300,33.0,1.0
 36057.0,New York,Montgomery,244,9,2.0,0.0
 36059.0,New York,Nassau,47736,2204,80.0,0.0
-36061.0,New York,New York,34217,3182,73.0,0.0
+36061.0,New York,New York,33095,3182,84.0,0.0
 36063.0,New York,Niagara,1872,101,17.0,0.0
 36065.0,New York,Oneida,2512,128,9.0,3.0
 36067.0,New York,Onondaga,4693,207,24.0,0.0
@@ -1940,9 +1940,9 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 36077.0,New York,Otsego,357,5,3.0,0.0
 80036.0,New York,Out of NY,0,107,0.0,0.0
 36079.0,New York,Putnam,1673,63,4.0,0.0
-36081.0,New York,Queens,73889,7276,147.0,2.0
+36081.0,New York,Queens,75218,7276,164.0,2.0
 36083.0,New York,Rensselaer,964,42,6.0,0.0
-36085.0,New York,Richmond,16324,1088,30.0,0.0
+36085.0,New York,Richmond,16411,1088,34.0,0.0
 36087.0,New York,Rockland,16599,679,145.0,2.0
 36091.0,New York,Saratoga,1139,17,17.0,0.0
 36093.0,New York,Schenectady,1445,48,7.0,0.0
@@ -2753,7 +2753,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 48107.0,Texas,Crosby,91,3,0.0,0.0
 48109.0,Texas,Culberson,60,2,2.0,0.0
 48111.0,Texas,Dallam,293,10,9.0,0.0
-48113.0,Texas,Dallas,90175,1165,477.0,4.0
+48113.0,Texas,Dallas,90175,1221,477.0,1.0
 48115.0,Texas,Dawson,602,11,36.0,1.0
 48123.0,Texas,DeWitt,1036,42,0.0,0.0
 48117.0,Texas,Deaf Smith,933,23,3.0,1.0
@@ -2801,7 +2801,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 48203.0,Texas,Harrison,952,34,10.0,2.0
 48205.0,Texas,Hartley,148,0,3.0,0.0
 48207.0,Texas,Haskell,73,3,1.0,0.0
-48209.0,Texas,Hays,6037,69,19.0,1.0
+48209.0,Texas,Hays,6771,69,19.0,1.0
 48211.0,Texas,Hemphill,95,0,0.0,0.0
 48213.0,Texas,Henderson,1078,25,23.0,0.0
 48215.0,Texas,Hidalgo,33352,1841,204.0,17.0
@@ -3142,47 +3142,47 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 51195.0,Virginia,Wise,464,9,0.0,0.0
 51197.0,Virginia,Wythe,275,4,0.0,0.0
 51199.0,Virginia,York,580,9,10.0,0.0
-53001.0,Washington,Adams,885,10,6.0,0.0
-53003.0,Washington,Asotin,146,5,5.0,0.0
-53005.0,Washington,Benton,4780,132,14.0,0.0
-53007.0,Washington,Chelan,1900,16,5.0,0.0
-53009.0,Washington,Clallam,242,1,1.0,0.0
-53011.0,Washington,Clark,3637,69,36.0,0.0
+53001.0,Washington,Adams,886,11,2.0,0.0
+53003.0,Washington,Asotin,146,5,1.0,1.0
+53005.0,Washington,Benton,4820,128,19.0,0.0
+53007.0,Washington,Chelan,2169,18,11.0,0.0
+53009.0,Washington,Clallam,244,1,1.0,0.0
+53011.0,Washington,Clark,3841,80,55.0,2.0
 53013.0,Washington,Columbia,14,1,0.0,0.0
-53015.0,Washington,Cowlitz,716,7,1.0,0.0
-53017.0,Washington,Douglas,1200,9,3.0,0.0
+53015.0,Washington,Cowlitz,722,7,2.0,0.0
+53017.0,Washington,Douglas,1339,8,5.0,0.0
 53019.0,Washington,Ferry,30,0,0.0,0.0
-53021.0,Washington,Franklin,4466,66,13.0,0.0
+53021.0,Washington,Franklin,4518,66,9.0,0.0
 53023.0,Washington,Garfield,13,0,0.0,0.0
-53025.0,Washington,Grant,3104,23,20.0,0.0
-53027.0,Washington,Grays Harbor,570,11,13.0,0.0
-53029.0,Washington,Island,326,12,1.0,0.0
-53031.0,Washington,Jefferson,75,0,0.0,0.0
-53033.0,Washington,King,23712,784,165.0,2.0
-53035.0,Washington,Kitsap,1347,16,10.0,0.0
-53037.0,Washington,Kittitas,582,22,8.0,0.0
-53039.0,Washington,Klickitat,200,3,-1.0,0.0
-53041.0,Washington,Lewis,617,8,11.0,1.0
-53043.0,Washington,Lincoln,63,1,-1.0,0.0
-53045.0,Washington,Mason,456,8,4.0,0.0
-53047.0,Washington,Okanogan,1069,10,1.0,0.0
+53025.0,Washington,Grant,3120,24,13.0,0.0
+53027.0,Washington,Grays Harbor,597,11,3.0,0.0
+53029.0,Washington,Island,337,11,5.0,0.0
+53031.0,Washington,Jefferson,77,0,2.0,0.0
+53033.0,Washington,King,24042,775,105.0,1.0
+53035.0,Washington,Kitsap,1346,18,8.0,2.0
+53037.0,Washington,Kittitas,598,22,11.0,0.0
+53039.0,Washington,Klickitat,217,2,2.0,0.0
+53041.0,Washington,Lewis,662,8,5.0,0.0
+53043.0,Washington,Lincoln,63,1,0.0,0.0
+53045.0,Washington,Mason,470,8,9.0,0.0
+53047.0,Washington,Okanogan,1102,12,0.0,0.0
 80053.0,Washington,Out of WA,0,0,0.0,0.0
-53049.0,Washington,Pacific,92,3,1.0,0.0
-53051.0,Washington,Pend Oreille,97,0,5.0,0.0
-53053.0,Washington,Pierce,8602,210,84.0,2.0
+53049.0,Washington,Pacific,96,2,3.0,0.0
+53051.0,Washington,Pend Oreille,111,0,7.0,0.0
+53053.0,Washington,Pierce,8717,203,57.0,0.0
 53055.0,Washington,San Juan,29,0,0.0,0.0
-53057.0,Washington,Skagit,1156,22,4.0,0.0
-53059.0,Washington,Skamania,65,1,0.0,0.0
-53061.0,Washington,Snohomish,7383,218,63.0,1.0
-53063.0,Washington,Spokane,7753,178,95.0,1.0
-53065.0,Washington,Stevens,212,3,5.0,0.0
-53067.0,Washington,Thurston,1259,20,16.0,0.0
-90053.0,Washington,Unassigned,330,3,3.0,0.0
+53057.0,Washington,Skagit,1194,22,6.0,0.0
+53059.0,Washington,Skamania,67,1,0.0,0.0
+53061.0,Washington,Snohomish,7573,213,62.0,0.0
+53063.0,Washington,Spokane,7874,172,79.0,0.0
+53065.0,Washington,Stevens,216,2,2.0,0.0
+53067.0,Washington,Thurston,1355,19,15.0,0.0
+90053.0,Washington,Unassigned,309,3,0.0,0.0
 53069.0,Washington,Wahkiakum,7,0,0.0,0.0
-53071.0,Washington,Walla Walla,945,6,2.0,0.0
-53073.0,Washington,Whatcom,1444,48,4.0,0.0
-53075.0,Washington,Whitman,1484,1,29.0,0.0
-53077.0,Washington,Yakima,11552,263,16.0,0.0
+53071.0,Washington,Walla Walla,950,6,1.0,0.0
+53073.0,Washington,Whatcom,1452,42,5.0,0.0
+53075.0,Washington,Whitman,1512,0,26.0,0.0
+53077.0,Washington,Yakima,11856,263,17.0,1.0
 54001.0,West Virginia,Barbour,130,1,12.0,0.0
 54003.0,West Virginia,Berkeley,1187,16,26.0,0.0
 54005.0,West Virginia,Boone,267,2,4.0,0.0

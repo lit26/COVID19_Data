@@ -1901,7 +1901,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 35061.0,New Mexico,Valencia,50,1,1.0,1.0
 36001.0,New York,Albany,1258,49,20.0,5.0
 36003.0,New York,Allegany,35,0,0.0,-2.0
-36005.0,New York,Bronx,38916,3215,466.0,27.0
+36005.0,New York,Bronx,40392,3215,488.0,27.0
 36007.0,New York,Broome,327,22,22.0,0.0
 36009.0,New York,Cattaraugus,53,0,3.0,0.0
 36011.0,New York,Cayuga,51,1,0.0,0.0
@@ -1922,14 +1922,14 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 36041.0,New York,Hamilton,3,0,0.0,0.0
 36043.0,New York,Herkimer,62,3,1.0,0.0
 36045.0,New York,Jefferson,62,0,0.0,0.0
-36047.0,New York,Kings,46839,4668,564.0,46.0
+36047.0,New York,Kings,48680,4668,612.0,46.0
 36049.0,New York,Lewis,9,0,0.0,0.0
 36051.0,New York,Livingston,83,5,7.0,0.0
 36053.0,New York,Madison,151,5,2.0,0.0
 36055.0,New York,Monroe,1566,121,32.0,0.0
 36057.0,New York,Montgomery,56,1,2.0,0.0
 36059.0,New York,Nassau,36780,1770,261.0,25.0
-36061.0,New York,New York,22741,2001,245.0,35.0
+36061.0,New York,New York,21866,2001,220.0,35.0
 36063.0,New York,Niagara,474,25,17.0,0.0
 36065.0,New York,Oneida,489,17,15.0,0.0
 36067.0,New York,Onondaga,952,34,49.0,0.0
@@ -1940,9 +1940,9 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 36077.0,New York,Otsego,67,4,0.0,0.0
 80036.0,New York,Out of NY,0,0,0.0,0.0
 36079.0,New York,Putnam,1013,7,10.0,0.0
-36081.0,New York,Queens,53640,4902,601.0,55.0
+36081.0,New York,Queens,55236,4902,599.0,55.0
 36083.0,New York,Rensselaer,322,11,11.0,0.0
-36085.0,New York,Richmond,12195,716,101.0,15.0
+36085.0,New York,Richmond,12427,716,131.0,15.0
 36087.0,New York,Rockland,12025,519,80.0,0.0
 36091.0,New York,Saratoga,363,11,2.0,0.0
 36093.0,New York,Schenectady,527,27,6.0,0.0
@@ -2753,7 +2753,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 48107.0,Texas,Crosby,2,1,0.0,0.0
 48109.0,Texas,Culberson,0,0,0.0,0.0
 48111.0,Texas,Dallam,12,1,0.0,0.0
-48113.0,Texas,Dallas,4133,111,234.0,1.0
+48113.0,Texas,Dallas,4133,141,234.0,7.0
 48115.0,Texas,Dawson,26,1,0.0,0.0
 48123.0,Texas,DeWitt,15,1,0.0,0.0
 48117.0,Texas,Deaf Smith,35,0,1.0,0.0
@@ -3144,37 +3144,37 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 51199.0,Virginia,York,47,1,1.0,0.0
 53001.0,Washington,Adams,48,0,0.0,0.0
 53003.0,Washington,Asotin,18,2,0.0,0.0
-53005.0,Washington,Benton,518,44,24.0,1.0
+53005.0,Washington,Benton,518,48,24.0,1.0
 53007.0,Washington,Chelan,118,5,4.0,0.0
 53009.0,Washington,Clallam,19,0,1.0,0.0
-53011.0,Washington,Clark,328,19,0.0,0.0
+53011.0,Washington,Clark,328,23,0.0,1.0
 53013.0,Washington,Columbia,1,0,0.0,0.0
 53015.0,Washington,Cowlitz,53,0,0.0,0.0
-53017.0,Washington,Douglas,82,1,0.0,0.0
+53017.0,Washington,Douglas,82,2,0.0,0.0
 53019.0,Washington,Ferry,1,0,0.0,0.0
-53021.0,Washington,Franklin,363,11,15.0,1.0
+53021.0,Washington,Franklin,363,14,15.0,0.0
 53023.0,Washington,Garfield,0,0,0.0,0.0
 53025.0,Washington,Grant,170,3,1.0,0.0
 53027.0,Washington,Grays Harbor,12,0,0.0,0.0
-53029.0,Washington,Island,169,9,0.0,0.0
+53029.0,Washington,Island,169,8,0.0,0.0
 53031.0,Washington,Jefferson,28,0,0.0,0.0
-53033.0,Washington,King,6449,459,98.0,2.0
+53033.0,Washington,King,6449,473,98.0,4.0
 53035.0,Washington,Kitsap,150,2,0.0,0.0
 53037.0,Washington,Kittitas,15,0,0.0,0.0
-53039.0,Washington,Klickitat,18,3,1.0,0.0
+53039.0,Washington,Klickitat,18,2,1.0,0.0
 53041.0,Washington,Lewis,29,3,0.0,0.0
 53043.0,Washington,Lincoln,2,0,0.0,0.0
 53045.0,Washington,Mason,26,1,1.0,0.0
-53047.0,Washington,Okanogan,21,1,0.0,0.0
+53047.0,Washington,Okanogan,21,2,0.0,0.0
 80053.0,Washington,Out of WA,0,0,0.0,0.0
-53049.0,Washington,Pacific,4,0,0.0,0.0
+53049.0,Washington,Pacific,4,1,0.0,0.0
 53051.0,Washington,Pend Oreille,2,0,0.0,0.0
-53053.0,Washington,Pierce,1393,50,17.0,0.0
+53053.0,Washington,Pierce,1393,56,17.0,2.0
 53055.0,Washington,San Juan,14,0,0.0,0.0
-53057.0,Washington,Skagit,354,13,9.0,0.0
+53057.0,Washington,Skagit,354,12,9.0,0.0
 53059.0,Washington,Skamania,3,0,0.0,0.0
-53061.0,Washington,Snohomish,2509,109,16.0,0.0
-53063.0,Washington,Spokane,369,22,3.0,0.0
+53061.0,Washington,Snohomish,2509,111,16.0,1.0
+53063.0,Washington,Spokane,369,23,3.0,1.0
 53065.0,Washington,Stevens,9,1,0.0,0.0
 53067.0,Washington,Thurston,111,1,0.0,0.0
 90053.0,Washington,Unassigned,63,0,-37.0,0.0
@@ -3182,7 +3182,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 53071.0,Washington,Walla Walla,88,0,1.0,0.0
 53073.0,Washington,Whatcom,316,28,4.0,0.0
 53075.0,Washington,Whitman,14,0,0.0,0.0
-53077.0,Washington,Yakima,1296,47,24.0,0.0
+53077.0,Washington,Yakima,1296,53,24.0,2.0
 54001.0,West Virginia,Barbour,5,1,0.0,0.0
 54003.0,West Virginia,Berkeley,159,2,3.0,0.0
 54005.0,West Virginia,Boone,6,0,0.0,0.0

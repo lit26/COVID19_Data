@@ -1901,7 +1901,7 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 35061.0,New Mexico,Valencia,4152,48,42.0,1.0
 36001.0,New York,Albany,8214,173,164.0,4.0
 36003.0,New York,Allegany,1427,65,24.0,1.0
-36005.0,New York,Bronx,72409,5062,671.0,4.0
+36005.0,New York,Bronx,75685,5062,476.0,4.0
 36007.0,New York,Broome,6601,178,69.0,0.0
 36009.0,New York,Cattaraugus,1817,29,34.0,0.0
 36011.0,New York,Cayuga,1629,14,48.0,1.0
@@ -1922,14 +1922,14 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 36041.0,New York,Hamilton,70,1,2.0,0.0
 36043.0,New York,Herkimer,1238,14,42.0,1.0
 36045.0,New York,Jefferson,1085,6,38.0,0.0
-36047.0,New York,Kings,102995,7575,1163.0,5.0
+36047.0,New York,Kings,106137,7575,732.0,5.0
 36049.0,New York,Lewis,587,11,13.0,2.0
 36051.0,New York,Livingston,1168,20,33.0,1.0
 36053.0,New York,Madison,1621,27,29.0,2.0
 36055.0,New York,Monroe,24293,375,548.0,6.0
 36057.0,New York,Montgomery,828,22,32.0,2.0
 36059.0,New York,Nassau,72122,2304,908.0,4.0
-36061.0,New York,New York,53345,3253,620.0,6.0
+36061.0,New York,New York,52533,3253,370.0,6.0
 36063.0,New York,Niagara,6144,141,128.0,4.0
 36065.0,New York,Oneida,8171,196,162.0,5.0
 36067.0,New York,Onondaga,15722,288,241.0,8.0
@@ -1940,9 +1940,9 @@ FIPS,Province_State,Admin2,Confirmed,Deaths,Daily_Confirmed,Daily_Deaths
 36077.0,New York,Otsego,915,6,11.0,0.0
 80036.0,New York,Out of NY,0,140,0.0,1.0
 36079.0,New York,Putnam,3869,66,74.0,0.0
-36081.0,New York,Queens,104668,7419,1233.0,7.0
+36081.0,New York,Queens,107848,7419,861.0,7.0
 36083.0,New York,Rensselaer,2712,67,81.0,0.0
-36085.0,New York,Richmond,28810,1188,459.0,0.0
+36085.0,New York,Richmond,29384,1188,251.0,0.0
 36087.0,New York,Rockland,24334,733,151.0,6.0
 36091.0,New York,Saratoga,3599,25,122.0,1.0
 36093.0,New York,Schenectady,3924,63,143.0,0.0
