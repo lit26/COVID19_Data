@@ -1,6 +1,6 @@
 # COVID19_Data
 
-Warning: This repo will no longer update. Data will be transfor to [Covid19-US-Dashboard](https://github.com/Covid19-US-Dashboard).
+Warning: This repo will no longer update. Data will be transfer to [Covid19-US-Dashboard](https://github.com/Covid19-US-Dashboard).
 
 Auto fetching data from [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) and [HealthData.gov](https://healthdata.gov/) with github schedule action. Processing with python script to get both csv data and json data.
 
